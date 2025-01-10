@@ -48,6 +48,16 @@ python preprocess/chunk.py
 
 ```
 
+After chunking, the pretraining dataset is well prepared, which is like:
+
+```json
+[
+    {"text": "...."},
+    {"text": "......."}
+]
+
+```
+
 ## Instruction Fine-tuning
 
 Instruction template used is [Alpaca](https://github.com/tatsu-lab/stanford_alpaca).
@@ -66,3 +76,21 @@ Two types of instruction datasets are used:
 
 1. General QA: [Alpaca dataset](https://huggingface.co/datasets/tatsu-lab/alpaca) 
 2. Knowledge-based QA: generated from reference books using ChatGPT. There are some methods used to generate high-quality QA datasets like [self-instruct](https://github.com/yizhongw/self-instruct).
+
+The format of the instruction dataset is like:
+
+```json
+[
+    {
+        "instruction": "Create a classification task by clustering the given list of items.",
+        "input": "Apples, oranges, bananas, strawberries, pineapples",
+        "output": "Class 1: Apples, Oranges\nClass 2: Bananas, Strawberries\nClass 3: Pineapples",
+    },
+    {
+        "instruction": "...",
+        "input": "...",
+        "output": "...."
+    }
+]
+
+```
