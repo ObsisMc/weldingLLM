@@ -27,18 +27,26 @@ Main removed parts:
 3. bibliography
 4. section titles
 
-Please refer to `clean.py` for more details.
+Please refer to `clean.py` for more details. 
 
 ```shell
 
 # run in the root dir
+# by default, input dir is "data/raw/md", output dir is "data/processed/md"
 python preprocess/clean.py
 
 ```
 
 ### Chunking
 
+Chunks the cleaned texts into chunks. 
 
+```shell
+# run in the root dir
+# by default, the cleaned data is in "data/processed/md" and the output file is "data/pretrain/pretrain_books_all.json"
+python preprocess/chunk.py
+
+```
 
 ## Instruction Fine-tuning
 
