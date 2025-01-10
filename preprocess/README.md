@@ -27,17 +27,17 @@ Main removed parts:
 3. bibliography
 4. section titles
 
-Please refer to `pretrain.py` for more details.
+Please refer to `clean.py` for more details.
 
 ```shell
 
 # run in the root dir
-python preprocess/pretrain.py
+python preprocess/clean.py
 
 ```
 
+### Chunking
 
-###
 
 
 ## Instruction Fine-tuning
