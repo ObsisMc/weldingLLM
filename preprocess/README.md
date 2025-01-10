@@ -50,15 +50,19 @@ python preprocess/chunk.py
 
 ## Instruction Fine-tuning
 
+Instruction template used is [Alpaca](https://github.com/tatsu-lab/stanford_alpaca).
 
+```txt
+### Instruction:
+{instruction}
 
-# Section Heading
+### Input:
+{input}
 
-Some body text of this section.
+### Response:
+```
 
-<a name="my-custom-anchor-point"></a>
-Some text I want to provide a direct link to, but which doesn't have its own heading.
+Two types of instruction datasets are used:
 
-(… more content…)
-
-[A link to that custom anchor](#my-custom-anchor-point)
+1. General QA: [Alpaca dataset](https://huggingface.co/datasets/tatsu-lab/alpaca) 
+2. Knowledge-based QA: generated from reference books using ChatGPT. There are some methods used to generate high-quality QA datasets like [self-instruct](https://github.com/yizhongw/self-instruct).
