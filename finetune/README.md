@@ -18,21 +18,32 @@ We first continued pretrained a base model, then did instruction finetuning to g
     - target modules: `"q_proj", "k_proj", "v_proj", "o_proj", "gate_proj", "up_proj", "down_proj","embed_tokens", "lm_head"`
 
 ### Continued pretrianing
-  - training config:
-    - epochs: 1~2
-    - batch size: 10
-    - gradient accumulation steps: 16
-    - learning rate: 5e-5
-    - optim: `adamw_8bit`
+- dataset:
+  - size: 60k
+  - max length: ~2k tokens
+- training config:
+  - epochs: 1~2
+  - batch size: 10
+  - gradient accumulation steps: 16
+  - learning rate: 5e-5
+  - optim: `adamw_8bit`
 
 ### Instruction Finetuning
-
+- dataset:
+  - size: 70k (50k alpaca + 20k custom dataset)
 - training config:
     - epochs: 1~2
     - batch size: 12
     - gradient accumulation steps: 16
     - learning rate: 5e-5
     - optim: `adamw_8bit`
+
+## Training Time
+
+- Continued pretraining:
+  - ~12h/epoch
+- Instruction finetuning:
+  - ~4h/epoch
 
 
 
