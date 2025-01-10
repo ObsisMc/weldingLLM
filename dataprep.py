@@ -38,7 +38,8 @@ def chunk_text(path: str, chunk_size=15000, chunk_overlap=150):
     text_splitter = RecursiveCharacterTextSplitter(
         chunk_size=chunk_size,
         chunk_overlap=chunk_overlap,
-        length_function=len
+        length_function=len,
+        # separators=["\n\n", ". ", "! ", "? ", "\n", " ", ""]
     )
     texts = text_splitter.create_documents([data])
     # print(texts[-1])
@@ -125,10 +126,13 @@ def create_qa_jsonl(path: str, save_path: str):
             elif i > 5:
                 break
 
-def create_pretrain_json(path: str, save_path: str, chunk_sizes: list=None, chunk_overlaps: list=None,
-                         remove_duplicate: bool=True):
-    if os.path.exists(save_path):
+def create_pretrain_json(
+        path: str, save_path: str, chunk_sizes: list=None, 
+        chunk_overlaps: list=None, remove_duplicate: bool=True):
+    
+    if save_path is not None and os.path.exists(save_path):
         os.remove(save_path)
+
     if chunk_sizes is None:
         texts = [chunk_text(path)]
     else:
@@ -147,10 +151,12 @@ def create_pretrain_json(path: str, save_path: str, chunk_sizes: list=None, chun
     # remove duplicates while keeping the order
     ret, original_len = ret if not remove_duplicate else [x for x in ret if not (x in seen or seen.add(x))], len(ret)
     ret = [{"text": t } for t in ret]
-    print(f"data size: {len(ret)} (remove {original_len - len(ret)} duplicates)")
+    print(f"File: {path} => data size: {len(ret)} (remove {original_len - len(ret)} duplicates)")
     
-    with open(save_path, "w", encoding="utf-8") as f:
-        json.dump(ret, f, ensure_ascii=False)
+    if save_path is not None:
+        with open(save_path, "w", encoding="utf-8") as f:
+            json.dump(ret, f, ensure_ascii=False, indent=4)
+    return ret
 
 
 def build_openai_ft_dataset(jsonl_path: str):
@@ -222,6 +228,32 @@ def openai2llamafactory_format(input_paths: List[str], output_path: str):
         json.dump(data, output_f, ensure_ascii=False)
 
 
+def openai2llamafactory_format_wrong_format(input_paths: List[str], output_path: str):
+    if os.path.exists(output_path):
+        os.remove(output_path)
+    
+    data = []
+    for input_path in input_paths:
+        with open(input_path, "r") as input_f:
+            while line := input_f.readline():
+                line = json.loads(line)
+                messages = line['messages']
+
+                # system_prompt = messages[0]['content']
+                instruction = list(messages[0].keys())[1]
+                answer = list(messages[1].keys())[1]
+
+                data.append({
+                    "instruction": instruction,
+                    "input": "",
+                    "output": answer,
+                })
+
+    print(f"total data size: {len(data)}")
+    with open(output_path, "w") as output_f:
+        json.dump(data, output_f, ensure_ascii=False, indent=4)
+
+
 def split_train_test(data_json: str, train_ratio: float=0.8):
     with open(data_json, "r") as f:
         data = np.array(json.load(f))
@@ -284,16 +316,17 @@ if __name__ == "__main__":
 
 
     # chunk_sizes = [256 + i for i in range(0, 16000, 128)]
-    # chunk_overlaps=[int(i * 0.2) for i in chunk_sizes]
+    chunk_sizes = [1024, 2048, 4096, 8192]
+    chunk_overlaps=[int(i * 0.2) for i in chunk_sizes]
 
-    # create_pretrain_json(
-    #     "data/volume1_chapter1.txt", 
-    #     "data/volume1_chapter1_pretrain.json",
-    #     chunk_sizes=chunk_sizes,
-    #     chunk_overlaps=chunk_overlaps,
-    #     # chunk_overlaps=[100] * 6
-    #     remove_duplicate=True
-    # )
+    create_pretrain_json(
+        "data/焊接手册markdown/第一本_no_image_only_body_no_intro_no_secttitle/Chapter_1.md", 
+        "test.json",
+        chunk_sizes=chunk_sizes,
+        chunk_overlaps=chunk_overlaps,
+        # chunk_overlaps=[100] * 6
+        remove_duplicate=True
+    )
 
 
     ## openai sft format -> llama factory format
@@ -305,6 +338,57 @@ if __name__ == "__main__":
     #     "data/openai_ft_data/vol1_5.jsonl",
     # ]
     # openai2llamafactory_format(input_paths, "data/volume1_chapter1_llamafactory_sft.json")
+    
+    # data_root = "data/焊接手册问题"
+    # sub_dirs = os.listdir(data_root)
+    # input_paths = []
+    # for sub_dir in sub_dirs:
+    #     sub_dir = os.path.join(data_root, sub_dir)
+    #     input_paths.extend([os.path.join(sub_dir, file) for file in os.listdir(sub_dir)])
+    # # print(input_paths)
+    # openai2llamafactory_format_wrong_format(input_paths, os.path.join(data_root, "llamafactory_format_sft_all.json"))
 
     ## split train test from the entire dataset
-    split_train_test("data/entire/volume1_chapter1_llamafactory_sft.json", train_ratio=0.8)
+    # split_train_test("data/entire/volume1_chapter1_llamafactory_sft.json", train_ratio=0.8)
+
+
+    ## chunk text in some directories
+    def chunk_text_in_dirs(
+            root_dir: str, chunk_sizes: list, chunk_overlaps: list,
+            save_path: str):
+        
+        if save_path is not None and os.path.exists(save_path):
+            os.remove(save_path)
+
+        ret_chunked_texts = []
+        file_n = 0
+        sub_dirs = os.listdir(root_dir)
+        for sub_dir in sub_dirs:
+            sub_dir = os.path.join(root_dir, sub_dir)
+            if os.path.isdir(sub_dir):
+                input_paths = [os.path.join(sub_dir, file) for file in os.listdir(sub_dir)]
+                for input_path in input_paths:
+                    chunked_text = create_pretrain_json(
+                        input_path,
+                        chunk_sizes=chunk_sizes,
+                        chunk_overlaps=chunk_overlaps,
+                        remove_duplicate=True,
+                        save_path=None
+                    )
+                    file_n += 1
+                    ret_chunked_texts.extend(chunked_text)
+        
+        if save_path is not None:
+            with open(save_path, "w", encoding="utf-8") as f:
+                json.dump(ret_chunked_texts, f, ensure_ascii=False, indent=4)
+        print(f"total file number: {file_n}, total data size: {len(ret_chunked_texts)}")
+        return ret_chunked_texts
+
+    chunk_sizes = [1024, 2048, 4096, 8192]
+    chunk_overlaps=[int(i * 0.2) for i in chunk_sizes]
+    chunk_text_in_dirs(
+        "data/焊接手册markdown_cleaned",
+        chunk_sizes=chunk_sizes,
+        chunk_overlaps=chunk_sizes,
+        save_path="data/焊接手册markdown_cleaned/chunked_texts.json"
+    )
