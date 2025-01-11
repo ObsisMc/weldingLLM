@@ -1,13 +1,12 @@
-import pymupdf
 import os
 import json
 import re
 import random
-import numpy as np
 
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_core.documents import Document
 from typing import List
+
 
 def chunk_text(path: str, chunk_size=15000, chunk_overlap=150) -> List[Document]:
     with open(path, "r") as f:

@@ -1,5 +1,15 @@
 # Data Preprocessing
 
+This step contains preparing two datasets, one for continued pretraining and the other for instruction finetuning.
+
+For the continued pretraining dataset, there are 3 steps, PDF extraction, data cleaning and chunking.
+
+For the instruction dataset, alpaca template is used and a knowledge-based Question-Answering dataset is curated.
+
+Dataset size:
+- Continued Pretraining: ~60k (max length ~2k tokens)
+- Instruction Finetuning: ~70k (50k alpaca + 20k custom QA)
+
 
 ## Continued Pretraining
 

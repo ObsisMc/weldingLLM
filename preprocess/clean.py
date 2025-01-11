@@ -1,9 +1,7 @@
 import json
-import pandas
 import os
 from collections import defaultdict
 import re
-from termcolor import colored
 
 
 def rm_image_fc(content):
