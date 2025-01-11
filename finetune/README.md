@@ -1,6 +1,6 @@
 # Training
 
-Follow the notebook to train your model.
+Follow the notebook to train and evaluate your model.
 
 We first continued pretrained a base model, then did instruction finetuning to get a chat model.
 
@@ -44,7 +44,3 @@ We first continued pretrained a base model, then did instruction finetuning to g
   - ~12h/epoch
 - Instruction finetuning:
   - ~4h/epoch
-
-
-
-
