@@ -1,0 +1,28 @@
+[
+    {
+        "question": "When increasing the gouging speed in carbon arc gouging, ().",
+        "options": [
+            "A. The groove depth increases",
+            "B. The groove depth decreases",
+            "C. The groove width increases",
+            "D. The groove width decreases"
+        ],
+        "answer": [
+            "B"
+        ]
+    },
+    {
+        "question": "In gas metal arc welding of titanium and titanium alloys, the droplet transfer modes include:",
+        "options": [
+            "A. Short circuiting transfer",
+            "B. Droplet transfer",
+            "C. Spray transfer",
+            "D. Sub spray transfer",
+            "E. Free transfer"
+        ],
+        "answer": [
+            "A",
+            "B"
+        ]
+    }
+]

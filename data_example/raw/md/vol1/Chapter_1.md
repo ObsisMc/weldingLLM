@@ -1,0 +1,914 @@
+# CHAPTER 1  
+
+SURVEY OF  JOINING, CUTTING, AND ALLIED  PROCESSES  
+
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/74d8ce06f15a8dce36b469a1e908a564734b488086e4d856cb43b5038d03358f.jpg)  
+
+W. H. Kielhorn, Chair LeTourneau University  
+
+Y. Adonyi LeTourneau University  
+
+R. L. Holdren Edison Welding Institute  
+
+R. C. Horrocks, Sr. Springﬁeld & Clark  Company  
+
+N. E. Nissley The Ohio State University  
+
+# Welding Handbook  Volume 1 Committee  Member:  
+
+T. D. Hesse Technical Welding Service  
+
+# Contents  
+
+Introduction 2 Joining Processes 3 Cutting Processes 42 Thermal Spraying 47 Conclusion 49 Bibliography 49 Supplementary Reading List 50  
+# CHAPTER 1  
+
+# SURVEY OF JOINING, CUTTING, AND ALLIED PROCESSES  
+
+# INTRODUCTION  
+
+This chapter introduces the conventional and more widely known joining, cutting, and thermal spraying processes. The distinguishing features of the various processes are summarized and compared to one another. Among the joining processes reviewed are the arc, resistance, and solid-state welding processes as well as brazing, soldering, and adhesive bonding. The cutting processes examined include thermal and nonthermal methods. The thermal spraying processes considered include ﬂame and plasma arc spraying as well as arc and detonation ﬂame spraying.  
+
+With respect to process selection, as several processes may be applicable for a particular job, the challenge lies in selecting the process that is most suitable in terms of ﬁtness for service and cost. However, these factors may not be compatible, thus forcing a compromise. The selection of a process ultimately depends on several criteria. These include the number of components to be fabricated, capital equipment costs, joint location, structural mass, and the desired performance of the product. The adaptability of the process to the location of the operation, the type of shop, and the experience and skill levels of the employees may also have an impact on the ﬁnal selection. These criteria are examined as they relate to the various joining, cutting, and thermal spraying processes.  
+
+As this chapter is intended to serve merely as a survey of the most common joining, cutting, and thermal spraying processes,  the reader is encouraged to conduct a thorough investigation of the processes that appear to have the best potential for the intended applications. This investigation should take into account safety and health considerations such as those presented in the American National Standard  Safety in Welding, Cutting, and Allied Processes,  ANSI Z49.1,  and the information provided in the manufacturers’ material safety data sheets (MSDSs). Additional sources of information about the joining, cutting, and allied processes are listed in the Bibliography and Supplementary Reading List at the end of this chapter. In particular, Welding Processes,  Volume 2 of the American Welding Society’s  Welding Handbook , 8th edition, presents in  
+depth coverage of each of the welding, cutting, and allied processes.  
+
+# JOINING PROCESSES  
+
+The goal of the joining processes is to cause diverse pieces of material to become a uniﬁed whole. In the case of two pieces of metal, when the atoms at the edge of one piece come close enough to the atoms at the edge of another piece for inter atomic attraction to develop, the two pieces become one. Although this concept is easy to describe, it is not simple to effect. Surface roughness, impurities, ﬁtting imperfections, and the varied properties of the materials being joined complicate the joining process. Welding processes and procedures have been developed to overcome these d if cul ties by incorporating the use of heat or pressure, or both. Though portions of this description do not apply to brazing, soldering, and adhesive bonding, an explanation will be given when these processes are described later in the chapter.  
+
+Barring a few exceptions, most welding processes apply signiﬁcant heat to the base material. This heat is only a means to bring the atoms at the edge of one piece of material close enough to the atoms of another piece for inter atomic attraction. However, this heat is detrimental to the micro structure of the materials being joined. As hot metal tends to oxidize, sufﬁcient protection from oxidation must be provided by the welding process to prevent this detrimental reaction with ambient oxygen. Some metals are far more sensitive than others, in which case protection from oxidation becomes more demanding. Thus, while examining each welding process, the reader should consider whether heat is produced by the process and, if so, the manner in which it is produced. The means by which sufﬁcient protection against oxidation is provided by the process should then be identiﬁed.  
+
+The selection of an appropriate joining and cutting process for a given task involves a number of considerations. These include the following:  
+
+1. Availability and ﬁtness for service; 2. Skill requirements; 3. Weld ability of the base metal alloy with respect to type and thickness; 4. Availability of suitable welding consumables; 5. Weld joint design; 6. Heat input requirements; 7. Demands of the welding position; 8. Cost of the process, including capital expenditures, materials, and labor; 9. Number of components being fabricated;  
+
+10. Applicable code requirements; and 11. Safety concerns.  
+
+The overview of the joining processes featured in Table 1.1 presents an initial reference guide to the capabilities of various joining processes with respect to a variety of ferrous and nonferrous metals. This table indicates the processes, materials, and material thickness combinations that are usually compatible. The columns on the left list various engineering materials and four arbitrary thickness ranges. The processes most commonly used in industry are listed across the top.  
+
+It should be noted that additional information such as the considerations listed above must be taken into account before process selections are ﬁnalized. Nonetheless, Table 1.1 serves as a useful tool in providing general guidelines for the screening and selection process.  
+
+# ARC WELDING  
+
+The term  arc welding  applies to a large, diversiﬁed group of welding processes that use an electric arc as the source of heat. The creation of a weld between metals using these processes does not usually involve pres- sure but may utilize a ﬁller metal. The arc is struck between the workpiece and the tip of the electrode. The intense heat produced by the arc quickly melts a portion of the base metal, resulting in the formation of a weld. The arc welding processes may be moved along the joint to produce the weld or held stationary while the workpiece is moved under the process.  
+
+Arc welding operations are performed by conducting the welding current through consumable electrodes, which take the form of a wire or rod, or nonconsumable electrodes, consisting of carbon or tungsten rods. Metal arc processes utilize consumable electrodes that combine electrode ﬁller metal with the molten base metal to create the weld. They may also produce a slag covering to protect the molten metal from oxidation. The non consumable arc processes can generate a weld by melting the base metal only, resulting in what is termed an  autogenous weld . If ﬁller metal is required in a non consumable process, it may be fed either manually or mechanically into the molten weld pool. In this case, the non consumable electrode serves only to sustain the arc.  
+
+# Shielded Metal Arc Welding  
+
+Illustrated in Figure 1.1, shielded metal arc welding (SMAW) is a basic, versatile process used to weld ferrous and some nonferrous metals. The most widely known of the arc welding processes, shielded metal arc welding is sometimes referred to colloquially as  stick  
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/adebe977b19055e8fcd2cc5836a2027622b509fd82a03890982a96b275ee8165.jpg)  
+\* SMAW  $=$  shielded metal arc welding; SAW  $=$  submerged arc welding; GMAW  $={\mathfrak{g a s}}$   metal arc welding; FCAW  $=$   ﬂux cored arc welding;  ${\mathsf{G I A W}}={\mathsf{g a s}}$   tungsten arc welding;  ${\mathsf{P A W}}=$   plasma arc welding;  $\mathsf{E S W}=$  electro slag welding;  $\mathsf{E G W}=\mathsf{\Omega}$  electrogas welding;  ${\sf R W}=$  resistance welding;  $\mathsf{F W}=$   ﬂash welding; OFW  $=$   oxyfuel gas welding; DFW  $=$  diffusion welding;   $\mathsf{F R W}=$  friction welding; EBW  $=$   electron beam welding;  $\mathsf{L B W}=$  laser beam welding;  $\mathsf{T B}=$   torch brazing;  $\mathsf{F B}=$   furnace brazing;  ${\mathsf{R B}}=$  resistance brazing;   $|{\mathsf{B}}=$   induction brazing;  ${\mathsf{D B}}={\mathsf{d i p}}$   brazing;  $\mathsf{I R B}=$   infrared brazing;  $\mathsf{D B}=$  diffusion brazing; and  ${\mathsf{S}}=$   soldering. †    ${\mathsf{S}}=$   sheet (up to  $1/8$   inch [in.] 3 millimeters [mm]);  $|=$  intermediate (1/8 in. to 1/4 in. [3 mm to 6 mm]);  ${\mathsf{M}}=$   medium (1/4 in. to   $3/4$   in. [6 mm to  $19\,\mathrm{mm}]$  );  $\mathsf{T}=$   thick (  $.3/4$   in.   $[19\,\mathsf{m m}]$   and up). ‡  Commercial process. §  Copper requires molybdenum-coated tips.  
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cab32dacbc3f9fb901bf1f90ed020c42a16a3babaea2e311d221011ae1c7ddc3.jpg)  
+Source:  Adapted from Linnert, G. E., 1994,  Welding Metallurgy , 4th ed., Miami: American Welding Society, Figure 6.8.  
+
+welding  or simply  arc welding . This process, which is applied without pressure, incorporates the use of a metal arc (an arc that transfers metal) which is formed between a covered electrode and the weld pool. The electrode consists of a wire core around which a concentric mixture of silicate binders and powdered materials such as ﬂuorides, carbonates, oxides, metal alloys, and cellulose is extruded. This covering serves as a source of arc stabilizers and vapors to displace air as well as metal and slag to protect, support, and insulate the hot weld metal.  
+
+Generically, the qualiﬁer  shielded metal arc  could be used to describe a number of arc processes. However, this term is unique to the process in which shielding is achieved by means of the decomposition of the coating on the electrode as it is consumed by the heat of the arc.  
+
+The bare section of the electrode is clamped into an electrode holder, which, in turn, is connected to the power source by a cable. The workpiece is connected to the other power source terminal. The arc is initiated by touching the tip of the electrode on the workpiece and then withdrawing it slightly. The heat of the arc melts the base metal in the immediate area along with the electrode’s metal core and covering. The molten base metal, the wire core, and any metal powders in the covering coalesce to form the weld.  
+
+When arc welding came into existence during the latter part of the nineteenth century, welding was hindered by the less-than-ideal electrical power sources available and the fact that a bare metal rod served as the consumable electrode. This bare metal electrode made it very difﬁcult to initiate and maintain an arc. Moreover, because the bare electrode provided no protection from the atmosphere, the resulting weld had poor properties.  
+Coverings for welding electrodes were developed in the 1920s and have undergone improvements in terms of formulation and production ever since. These improvements have resulted in ease of arc initiation and operation as well as excellent weld properties. The ingredients in the coatings perform a number of functions. They stabilize the arc, thereby rendering excellent operation performance. They produce (1) shielding vapors, which displace air; (2) de oxidizers and other scavengers that purify the weld; and (3) slag, which provides a physical protection or “lid” over the hot weld metal. Electrode coatings that incorporate powdered metal increase the deposition rate potential and enable the operator to drag the electrode lightly instead of having to maintain a proper arc length manually. This reduces operator fatigue, minimizes skill requirements, and often increases productivity.  
+
+Covered welding electrodes are available in diameters ranging from 1/16 inch (in.) to   $5/16$   in. (2 millimeters   $[\mathrm{mm}]$   to   $8~\mathrm{mm}$  ). The smaller diameters are used with low currents for the joining of thin sections, limited-access work, and welding in the vertical and overhead welding positions. The larger-diameter electrodes require higher currents, which produce higher weld deposition rates. With respect to economy, the goal is to use the electrode with the highest deposition rate and the highest current practical for the application.  
+
+In order to realize the economic potential of the larger electrodes coated with metal powder, the amperage per square inch (in. ) (square millimeter   $[\mathrm{mm}^{2}]$  ) of the electrode cross-sectional area, termed  current density , must be optimized. Although electrodes can function at a sign i cant ly lower current density than the optimum setting, a low current density decreases productivity. Weld deposition rates vary directly in relation to the current density used.  
+
+While smaller electrodes cannot successfully conduct high currents, they are able, at a certain point, to maintain high current density. A point is reached at which small electrodes sustaining high current densities yield higher deposition rates than larger electrodes with lower current density. For this reason, other welding processes that utilize a continuous wire feeder often render greater productivity. They use an electrode that is much smaller in diameter, which can sustain much higher current density than shielded metal arc welding electrodes.  
+
+The application of the shielded metal arc welding process involves relatively high labor costs. This process yields a deposition efﬁciency of less than  $60\%$   based on a comparison of the weight of electrodes purchased to the weld weight obtained. This relatively low efﬁciency is due to a number of factors. These include the discarding of electrode stubs when the electrode is consumed to within 2 in. to 3 in. (  $50~\mathrm{mm}$   to   $75~\mathrm{mm}$  ) of the electrode holder or when a portion of the covering is knocked off. In addition, slag must be chipped from the completed weld. Compared to the wire-feed arc processes, the labor costs of the shielded metal arc process are high due to its slower deposition rates and the interruptions of the work required to change electrodes and remove the slag from the weld after each pass.  
+
+The equipment used in shielded metal arc welding is the simplest and least expensive of that used for the electric welding processes. The necessary components are a power source of adequate current rating and duty cycle, suitably sized electrical cables, an electrode holder, and a workpiece-lead clamp. Utility-duty, singlephase alternating-current (ac) welding machines are the least expensive and can be used with small electrodes designed for ac current. Industrial-duty alternating current/direct current   $(a c/d c)$   or dc power sources can be used with the greatest variety of electrodes. Enginedriven portable machines with a wide range of capabilities are marketed at various prices, depending on the polarity and power output options desired.  
+
+With respect to personal protective equipment, shielded metal arc welding operators must wear sturdy dry clothing and leather gloves for protection against spatter and electric shock. A helmet equipped with a dark lens shields the eyes from the brilliance of the arc, electromagnetic radiation, and ﬂying slag particles.  
+
+The shielded metal arc process offers several other advantages in addition to the simplicity, low cost, and portability of SMAW equipment. With this process, shops can handle many welding applications using a wide variety of electrodes. Moreover, this process permits welds to be made in conﬁned spaces. For these reasons, shielded metal arc welding has wide application in the construction, pipeline, and maintenance industries, among others.  
+
+# Submerged Arc Welding  
+
+A versatile production welding process, submerged arc welding (SAW) effects the joining of metals by heating them with an arc formed between a bare metal electrode and the workpiece. Illustrated in Figure 1.2, this process involves submerging the welding arc beneath a mound of granular ﬂux particles as the arc is initiated. Additional ﬂux is continually added in front of the electrode as weld travel progresses. The ﬂux protects the arc and molten weld metal from ambient atmosphere, thereby preventing the formation of oxides. The arc quickly melts some of the ﬂux and base metal but remains covered by a combination of melted and  
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d9f79213278c3e805b19bdc17b9755b22eae3298e5fb905cd42b32b773de5808.jpg)  
+Source:  Adapted from Linnert, G. E., 1994,  Welding Metallurgy , 4th ed., Miami: American Welding Society, Figure 6.18.  
+
+unmelted ﬂux. Therefore, the arc is invisible. Typically,  
+
+the ratio of ﬂux to electrode used is 1 pound (lb) to 1 lb. Used extensively in pipe manufacturing, pressure vessel fabrication, and ship building, submerged arc welding is most widely employed in the welding of many grades of carbon, low-alloy, and alloy steels. Stainless steel and various nickel alloys are also effectively welded or used as surfacing ﬁller metals with this process. Submerged arc welding is adaptable to automated and robotic applications.  
+
+The welding positions best suited for submerged arc welding are the ﬂat position for ﬁllet and groove welds (1F and 1G) and the horizontal position for ﬁllet welds.  A modi cation to the process involving the use of special ﬂux shelves can facilitate welding butt joints in the horizontal position (2G). The vertical and overhead welding positions cannot be utilized in submerged arc welding since gravity is a factor in maintaining the ﬂux covering of the arc and molten pool.  
+
+The electrodes used in submerged arc welding consist of coiled wire that feeds into the arc. These electrodes are usually supplied in coils or drums. For larger jobs, the larger-sized packages maximize economy by increasing operating efﬁciency and decreasing electrode unit costs. The electrode diameters usually speciﬁed in submerged arc welding range between 1/16 in. and 1/4 in.   $.1.5\;\mathrm{mm}$   and  $6\:\mathrm{mm}$  ). Due to the high current and deep penetration often used, this process is better suited to welding sections thicker than   $\bar{1}/4$   in.   $(6~\mathrm{mm})$  ). However, reduced current and 0.045 in. (  $.1~\mathrm{mm})$   or smaller electrode wire are sometimes used for welding thicknesses below 1/4 in.   $(6~\mathrm{mm})$  ).  
+
+The ﬂux used in submerged arc welding can be selected in combination with the electrode ﬁller metal to yield speciﬁc weld qualities. Various ﬁller metal-ﬂux combinations produce beneﬁcial chemical reactions and modify the chemical composition of the weld metal. The ﬂux may contain ingredients that contribute alloying additions to the weld metal. The unmelted ﬂux can be vacuumed from the completed weld and reused once any lumps of slag have been sifted out of it. The melted ﬂux leaves a slag deposit that is easily removed, leaving a bright, clean, smooth weld with no spatter.  
+
+However, ﬂux in the area of the weld joint slows the cooling rate and produces a wider base metal heataffected zone (HAZ). This is not acceptable for metal alloys that require high toughness values or faster cooling rates to minimize the HAZ degradation of a temper- ing treatment. Adjustments carried out to decrease heat input in the procedure may help. These include decreasing the amperage and voltage or increasing the travel speed.  
+
+Both mechanized and semi mechanized forms of submerged arc welding are used extensively in industrial applications. With mechanized submerged arc welding, a combination of multiple electrodes and cold wires (wires not heated by another source) can be used for high productivity and penetration control. Surfacing 7 with a modi cation of submerged arc welding is performed with a metal strip-type electrode supplemented by a cold strip feeding into the deposit. This results in a wide deposit, minimal penetration, and a high deposition rate.  
+
+High current densities are possible with submerged arc welding since the ﬂux has a tranquilizing effect on the arc. High current densities yield high deposition rates and deep penetration, the latter of which minimizes the area required for the weld joint. High deposition rates and deep penetration with minimal joint area all complement each other, rendering high productivity. In addition, the depth-to-width ratio of the welding may be critical in some alloys to prevent centerline cracking in the weld. Figure 1.3 illustrates this type of joint.  
+
+Submerged arc welding can also be carried out with relatively low current densities. In this case, deposition rates and penetration are correspondingly low. Electrical parameters and the travel speed along the joint can  
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/66806ef18c25baabfaec929fa64d39d24adf36bf731348fd17565cba85138865.jpg)  
+
+Source:  Adapted from Kielhorn, W. H., 1978,  Welding Guidelines with Aircraft Supplement , Englewood, Colorado: Jepperson Sanderson, Figure 5.44.  
+
+# Figure 1.3—Joint with Thick Root Face Produced by Submerged Arc Welding  
+
+be adjusted to produce a variety of welds, ranging from a wide, ﬂat deposit with little penetration to a deep, narrow weld with a high crown or buildup. Alternating current, direct current electrode positive (DCEP) and direct current electrode negative (DCEN) can be used.  
+
+Though single-electrode welding is the most common con gu ration used in submerged arc welding, two arcs may also be used simultaneously in a procedure known as the  tandem arc process . A typical SAW tandem arc procedure utilizes DCEP for the ﬁrst electrode and ac for the second electrode. Deep penetration into the joint root face is achieved by using DCEP on the ﬁrst electrode, while higher deposition rates and minimal arc blow (the deﬂection of an arc from its normal path by magnetic ﬁelds) are achieved using ac on the second electrode. Offering high deposition rates, the tandem arc process is used in mechanized and automated welding to join materials whose thickness is   $1/2$   in. (  $12~\mathrm{mm})$  or greater. As many as ﬁve electrodes feeding into the same weld pool can be used.  
+
+With no visible arc and very little smoke or fume generation, submerged arc welding offers advantages with respect to environmental safety concerns. Operators need not wear a helmet or heavy protective clothing, though eye protection must be worn to shield against unexpected hazards. Users should avoid breathing the dust generated when pouring or otherwise han- dling ﬂux. As certain elements can be hazardous when vaporized, the manufacturer’s material safety data sheets (MSDSs) should be consulted to identify potentially hazardous materials.  
+
+# Gas Tungsten Arc Welding  
+
+The gas tungsten arc welding (GTAW) process, often referred to colloquially as  TIG welding , incorporates the use of a non consumable tungsten electrode to sus- tain the arc, which is shielded from the atmosphere by externally added gas. Gas tungsten arc welding is the most versatile of the arc processes. Welds can be made with or without ﬁller metal, and very thin materials of just a few thousandths of an inch (less than 1 millimeter) can be welded. Gas tungsten arc welding can be used in all welding positions to join just about all weldable ferrous and nonferrous alloys.  
+
+Gas tungsten arc welding can be used in automated or robotic applications. Weld control is excellent because the welder can establish a molten pool and then add ﬁller metal as desired. This excellent control yields exceptional fusion and wetting at the beginning of the weld, thus avoiding incomplete fusion, which can take place initially when using consumable electrode processes. Figure 1.4 illustrates the gas tungsten arc process.  
+
+The shielding gas utilized in gas tungsten arc welding is usually, though not always, inert (i.e., it does not participate in chemical reactions). Argon is the predominant shielding gas used, though helium and argonhelium mixtures are sometimes utilized to obtain greater weld penetration. Inert gas shielding displaces the ambient atmosphere so that welding can take place in a nonreactive atmosphere. Although the inert gas prevents detrimental reactions, some beneﬁcial reactions are also inhibited. For this reason, reactive gases such as hydrogen or nitrogen are sometimes mixed with the inert gas to obtain the desired effect. As the tungsten electrode may react unfavorably with certain shielding gases, the choice of shielding gases that can be used with this process is limited.  
+
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3c866f9bb1b666093553eb12e9d0d8ff251cc89a22e1ea408f8a1ad98cf4354f.jpg)  
+Figure 1.4—Schematic Representation of Gas Tungsten Arc Welding  
+Tungsten electrodes are often alloyed with small amounts of oxides from other elements. One widely used tungsten electrode contains   $2\,\%$   thorium oxide (thoria), which enhances electron emission and thus provides the electrode a higher current-carrying capacity without inducing melting. Oxides of other elements that are available in electrodes include cerium, lanthanum, and zirconium. The American Welding Society (AWS) standard  Spec i cation for Tungsten and Tungsten Alloy Electrodes for Arc Welding and Cutting, AWS A5.12/A5.12M,  contains spec i cations for the tungsten electrodes used in gas tungsten arc welding.  
+
+The selection of a power source for gas tungsten arc welding is based on the type of welding current required for the application. Some power sources are capable of producing square-wave ac, which renders better arc performance than the conventional sine-wave ac. Some power sources have a pulsed-arc option. A pulsed arc ﬁrst supplies a higher current pulse to the arc to achieve thorough fusion; a lower current pulse is subsequently supplied to prevent the electrode from overheating and melting. This lower current also prevents excessive melting of the base metal. Pulsed-arc current allows adjustments of the pulse current time, background current time, peak current level, and background current level to provide a current output wave pattern suited to a particular application.  
+
+The choice of polarity is important as well. DCEP heats the electrode much more than DCEN; thus, DCEP is rarely used. This is unfortunate, considering the effectiveness of the oxide cleaning that takes place from the surface of the base metal when the current ﬂows in direction from the base metal to the tungsten, as is the case when the electrode is DCEP. When welding metals that have refractory oxide surfaces (i.e., surfaces that protect the base metal against oxidation) such as aluminum and magnesium, oxide cleaning can take place in the electrode positive portion of the ac cycle.  
+
+Some gas tungsten arc welding power sources also permit  polarity  adjustments.  Adjustable  polarity enables the modi cation of the alternating current in two ways—either by changing the proportion of time duration in the desired direction (electrode positive or electrode negative) or by adjusting the amplitude of the current in the desired direction. The greater the adjustment in the electrode positive current direction, the greater the oxide cleaning effected. It should be noted, however, that polarity adjustments also result in additional heating of the tungsten electrode. Figure 1.5 illus- trates these adjustable polarity options.  
+
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7c5e7801b710cb3f6d2dbcd36dfbd3bb519659667d599b05128650c66f5c14be.jpg)  
+Figure 1.5—Square-Wave Alternating Current  Adjustable Polarity Options  
+
+Autogenous welds can be produced by melting and fusing the base metal edges together without adding ﬁller metal. However, ﬁller metal can be added manually or mechanically into the pool, where it is melted by the thermal energy of the molten pool. Care must be taken not to allow the ﬁller metal rod to come into direct contact with the arc, which would cause it to be quickly drawn onto the tungsten electrode, thereby contaminating it. Techniques known as  hot-wire feed  and  cold-wire feed  are options of the mechanical feeding method. The hot-wire feed method involves preheating the ﬁller metal to minimize the thermal energy required by the pool to melt it. The cold-wire technique involves no heating of the ﬁller metal. The hot-wire feed method increases the productivity of the process by increasing the deposition rate more than the cold-wire feed method.  
+
+The greatest disadvantage of gas tungsten arc weld- ing is its low productivity. Consumable electrode arc processes produce welds at a much faster rate because the electrical power heats the ﬁller metal directly. In addition, the current density used with the consumable electrode processes is much higher. For example, gas tungsten arc welding with a   $1/16$   in.   $(1.6\ \mathrm{mm})$  ) tungsten electrode and a typical current of 100 amperes (A) yields a current density of  $32{,}250\;\mathrm{A/in.}$     $(53\mathrm{~\AA/mm^{2}})$  ). In contrast, gas metal arc welding (see below) with a consumable electrode of the same size and the typical current of 300 A results in a current density of   $\dot{96},770~\mathrm{A}/$  in.   (  $158~\mathrm{A/mm^{2}}$  ). The higher current density employed in gas metal arc welding requires that the ﬁller metal electrode be fed into the arc at a rapid rate, resulting in a weld deposit time that is much faster than that achieved with gas tungsten arc welding.  
+Gas tungsten arc welding also requires great skill, especially when manually feeding the ﬁller metal, as both the torch and ﬁller metal must be coordinated simultaneously. Mechanical wire feeding systems decrease the required skill level and somewhat increase process productivity. Nonetheless, welders who master gas tungsten arc welding become enamored of its versatility.  
+
+# Gas Metal Arc Welding  
+
+Gas metal arc welding (GMAW), often referred to colloquially as  MIG  or  wire feed welding,  involves the use of a metal arc and consumable electrode with externally added shielding gas. With the various choices of arc modes described below, the wide range of electrode sizes available, and the numerous shielding gas mixtures possible, the GMAW process can be used to weld many ferrous and nonferrous metals. These metals can range in size from 0.020 in.   $(0.5\ \mathrm{mm})$   thin-gauge sections to any desired plate or pipe section thickness. With the proper procedure, welding can be performed in all positions. If the variables are properly balanced, less skill is required for the gas metal arc welding than for the SMAW or GTAW processes. Figure 1.6 illustrates the gas metal arc welding process.  
+
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e115dc0c82e51e9d404a4e79762110e9069bd0e5ac69df7deb8b1939afbf02ff.jpg)  
+Source:  Adapted from Linnert, G. E., 1994,  Welding Metallurgy , 4th ed., Miami: American Welding Society, Figure 6.12.  
+
+The shielding gas or gas mixture used in gas metal arc welding is often not completely inert. Shielding gas may often consist of carbon dioxide alone, carbon dioxide mixed with argon, or carbon dioxide mixed with several gases. Small quantities of oxygen (up to   $5\,\%$  ) are sometimes mixed with the argon. If properly blended, these mixtures result in smoother arc performance, less spatter, and enhanced wetting (i.e., spreading and adhering) of the weld to the base metal. Some mixtures have been standardized and are commercially available in cylinders.  
+
+Gas metal arc welding employs either a solid electrode wire or an electrode with a core of powdered metal. A variety of ferrous and nonferrous alloys are available. Electrode sizes range from 0.020 in. to 0.125 in.   $(0.5\;\mathrm{mm}$  to  $3.2\,\mathrm{mm}$  ). Spool weights vary from l lb to 60 lb   $(0.5\;\mathrm{kg}$  to  $27\,\mathrm{kg}.$  ), whereas coils weigh from   $50\,\mathrm{lb}$   to 65 lb   $(23\,\mathrm{kg}$  to  $29.5\,\mathrm{kg}.$  ), and drums, up to 1000 lb   $(450\ \mathrm{kg})$  . The unit cost of electrode wire varies inversely with the size of electrode and the weight of the spool, coil, or drum purchased. For example, the unit cost of a given alloy of 0.020 in.   $(0.5\;\mathrm{mm})$   wire on a 1 lb   $(0.5\;\mathrm{kg})$   spool may be more than ﬁve times higher than the unit cost of 0.125 in.   $(3\ \mathrm{mm})$  ) wire purchased in a 1000 lb   $(450~\mathrm{kg})$  drum. Therefore, it is economically advisable to use the largest-sized electrode wire wound on the largest-sized spool, coil, or drum practical for the application.  
+
+One signiﬁcant variable in any wire-fed arc process is the distance the electrode protrudes past the end of the contact tip to the work, termed  electrode extension . The electrode is a very small conductor and therefore has high electrical resistance. If the extension of the electrode increases even a fraction of an inch in a constant-voltage system, the current decreases rapidly because more current is used to preheat the electrode. The current is a function of wire feed speed and electrode extension. The current varies directly with wire feed speed but inversely with extension. The deposition rate, on the other hand, is a function of wire feed speed only; therefore, if the wire feed is constant, the deposition rate is constant even though the current changes as the extension changes.  
+
+The basic equipment and accessories used in gas metal arc welding include a welding gun (air or water cooled); electrode; an electrode feed unit; welding control; a power supply; shielding gas; cables and hoses; and in the case of water-cooled torches, a water circulation system. This process lends itself well to semimechanized, fully mechanized, automatic, and robotic welding. In semi mechanized welding, the operator holds the welding gun, controlling its attitude, extension, and travel speed along the joint. Alternatively, the gun can be mounted on a carriage with an adjustable speed control and moved along the joint at the desired travel speed.  
+Several types of metal transfer variations can be used in gas metal arc welding, depending on a number of factors. These variations include the spray, globular, short-circuiting, pulsed-arc, and high-deposition and buried-arc metal transfer modes. Figure 1.7 summarizes these arc modes as a function of current density, illustrating their respective positions in relation to one another. The type of shielding gas used also affects the arc modes. For example, when using carbon dioxide, the resulting metal transfer is characteristically globular even at high current density. The larger the electrode used, the higher the current required for a given current density.  
+
+Spray transfer mode is activated when the current density level rises above the transition current density level, which is deﬁned as the current density level above which spray transfer occurs. The transition current density level is identiﬁed as a dotted line in Figure 1.7. In spray transfer arc mode, the electrode metal is transferred as tiny droplets across a stiff, stable arc, as illustrated in Figure 1.8. The stable arc is rather quiet and produces very little spatter. Argon should be predominant in the shielding gas mixture. Because this mode produces a high volume of molten metal at a high rate of speed, spray transfer is considered suitable for the ﬂat and horizontal positions only.  
+
+Globular transfer mode, shown in Figure 1.9, is obtained when the current density is just below the transition current density level. When carbon dioxide is used as the shielding gas, globular transfer occurs even at high current density. The metal droplets formed at the end of electrode are larger in diameter than the electrode itself. With solid electrode wire, globular mode produces a rather erratic arc. In this case, the metal globules are propelled from randomly varying positions with respect to the center of the electrode tip. Substantial spatter results, producing a weld deposit that is  
+
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f1c52c7b61ccbc0d4cad140d4a224722184ca21560d77c2b4d8af78fffe0cf7c.jpg)  
+Figure 1.7—Gas Metal Arc Welding Transfer Mode Comparison  
+
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/eda9aa5698e044c44c8d8f8849a6e9c6651795d3c330b1654a2eaffde4656b72.jpg)  
+Source:  Adapted from Kielhorn, W. H., 1978,  Welding Guidelines with Aircraft Supplement , Englewood, Colorado: Jepperson Sanderson, Figure 5.26.  
+
+Figure 1.8—Schematic Illustration of Spray Metal Transfer  
+
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/830f76efab7172783d1e74e88af05e58c1351457ee11c5fa90626cd6e44273f9.jpg)  
+Figure 1.9—Gas Metal Arc Welding: Globular Metal Transfer Mode  
+
+rough and uneven. A more controlled version of this mode is used in ﬂux cored arc welding (see below).  
+
+Short-circuiting transfer mode, which has a characteristic buzzing sound, is obtained at the lowest range of current densities. The shielding gas mixture used in this mode, which can be applied in all welding positions, is typically rich in argon. It produces small, quickly solidifying welds suited to joining thin materials or bridging root openings. In the latter case, this mode provides full penetration and fusion to both members on the reverse side of an open root butt joint.  
+Figure 1.10 illustrates the short-circuiting metal transfer cycle. Position A shows a globule forming on the electrode tip just before being freed. Position B depicts the globule short-circuiting to the weld pool, extinguishing the arc for an instant. Although this is not perceptible to the unaided eye, high-speed ﬁlm has proven that the arc does indeed extinguish. Because of the short circuit, the globule is pinched off as the current peaks, as shown in position C. Position D shows the arc restored. This cycle can occur up to 200 times per second, depending on the electrical current and gas parameters used.  
+
+An important precaution must be observed when implementing the short-circuiting arc mode. Sufﬁcient power must be used to obtain thorough fusion as soon as the mass of the base metal becomes critical. For purposes of illustration, assume that a welder working with a section thicker than 1/4 in.   $(6.4~\mathrm{mm})$  ) is attempting to make a T-joint ﬁllet weld traveling downhill using a 0.035 in.   $(0.9\,\mathrm{\mm})$  ) electrode at less than 100 A and 18 volts   $\mathrm{(V)}$  . The arc may sound as though it is working well under these operating conditions, but little if any fusion to the base metal is actually taking place because of in suf cie nt power. Properly designed welding procedures must be carefully followed when operating in this mode.  
+
+Pulsed-arc metal transfer mode (GMAW-P) is a metal transfer variation in which the welding current is pulsed. Argon typically predominates in the shielding gas mixture. Figure 1.11 illustrates the behavior dynamics of the current with this mode. In Position 1, a  
+
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/613d416651e6e007d8265584d5fefc901aed992b2e6ed29d1028d18cd4fa271b.jpg)  
+Source:  Adapted from Kielhorn, W. H., 1978,  Welding Guidelines with Aircraft Supplement , Englewood, Colorado: Jepperson Sanderson, Figure 5.30.  
+
+# Figure 1.10—Gas Metal Arc Welding: Short-Circuiting Metal Transfer Mode  
+
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/55050858832af9571d789bd45d68dd9498d11444d4b059e430551fca419d359f.jpg)  
+Source:  Adapted from Kielhorn, W. H., 1978,  Welding Guidelines with Aircraft Supplement , Englewood, Colorado: Jepperson Sanderson, Figure 5.30.  
+
+# Figure 1.11—Gas Metal Arc Welding: Pulsed-Arc Mode  
+
+low-background current is applied, prompting the formation of a small globule on the electrode. In Position 2, a pulse of current is about to cause the globule to separate from the electrode. In Position 3, the current has pulsed above the transition current density, and the droplet is transferred in spray metal transfer mode. The spray arc also applies heat, which aids fusion. In Positions 4 and 5, the current density is returning to the background current.  
+
+The advantages of the pulsed-arc mode include the option of using larger electrode sizes, greater process productivity, and enhanced fusion with a greater base metal mass (as compared to the short-circuiting mode). The pulsed-arc mode can also be used in all positions. However, GMAW pulsed-arc equipment is much more expensive than that used for the other arc modes. In addition, pulsed-arc background and peaking current amplitudes and durations must be properly adjusted for the electrode alloy type and size being used with a given shielding gas. Various manufacturers offer synergic systems using inverter power sources. Several pulsed-arc systems have microprocessor controls to synchronize the variables. A number of factory preset program options may be included. To improve performance during particular applications, provisions for changing any of the preset parameters are also available.  
+
+As illustrated in Figure 1.7, the two metal transfer modes having the greatest current density are the buriedarc and high-deposition-rate modes. The current densities of these modes may exceed 300,000 A/in.  (465 A/  $\mathrm{mm}^{2}$  ) of the electrode cross-sectional area. At these densities, a 0.045 in.   $(1\ \mathrm{mm})$   electrode feeds at about 1500 in.  $/\mathrm{min}$   (38 meters   $[\mathrm{m}]/\mathrm{min})$  . The voltage used in buried-arc mode is low enough to permit the arc to be below the surface of the metal, which produces a narrow, deep weld proﬁle with a high crown or buildup. The high-deposition-rate mode utilizes a higher voltage, creating a wider weld proﬁle that has less weld crown and is not as deep. The buried-arc and high-depositionrate modes are normally implemented in fully mechanized or automatic gas metal arc welding.  
+# Flux Cored Arc Welding  
+
+Flux cored arc welding (FCAW) uses the same type of power sources, wire feeders, and welding guns as gas metal arc welding. However, ﬂux cored arc welding incorporates the use of a tubular electrode with a core containing ﬂux. A variation, self-shielded ﬂux cored arc welding (FCAW-S), obtains its shielding gases from the electrode and requires no externally added gas. The self-shielded ﬂux cored arc welding gun differs from the GMAW gun in that it has no nozzle for shielding gas. Figure 1.12 illustrates both gas shielded and selfshielded ﬂux cored arc welding. Gas shielded ﬂux cored arc welding (FCAW-G) is another variation.  
+
+The ﬂux in the electrode core serves the same functions as the coating on the shielded metal arc electrode. It stabilizes the arc and contains de oxidizers, scavengers, slag, and vapor-forming ingredients. Gas-shielded ﬂux cored arc electrode ﬂuxes must be supplemented by externally added gas, typically carbon dioxide. Selfshielded arc electrodes provide enough slag, vapors, and de oxidizers to provide necessary protection from the atmosphere. Self-shielded ﬂux cored arc welding is suited to outdoor work in windy conditions in which externally added shielding gases would be blown away. Electrodes are marketed for carbon steels and some alloy steels. Electrode sizes range from less than 0.020 in. to 0.16 in. (  $0.5~\mathrm{mm}$   to  $4\;\mathrm{mm}$  ).  
+
+Flux cored arc welding requires more electrode extension than gas metal arc welding. If the extension is too short, the vapor-forming ingredients are not sufﬁ- ciently heated to generate enough arc vapor for adequate shielding. Inadequate arc vapor can cause porosity in the weld. Some self-shielded ﬂux cored arc welding electrodes require even greater extension than gas shielded ﬂux cored arc welding electrodes.  
+
+Deposition rates in ﬂux cored arc welding are somewhat higher than those attained with gas metal arc welding. With a given electrode size and current, the current density is also higher with ﬂux cored electrodes than with the electrodes used for gas metal arc welding. This increased current density occurs because ﬂux cored electrodes are tubular rather than solid, and the ﬂux core has less density and current-carrying capacity than metal. The slag ingredients have a somewhat tranquilizing effect on the weld pool, which allows for high current density and minimal spatter. The controlled globular transfer typical with ﬂux cored arc welding allows for a broad range of electrical variables, which contributes to good operating characteristics.  
+
+The presence of ﬂux as part of the process enables beneﬁcial chemical reactions as does the coating ingredients on the SMAW electrode. However, the productivity potential is sign i cant ly higher than with SMAW due to the high current density used with this process and the fact that it is not necessary to stop to change electrodes as often. Flux cored arc welding has a rather large window of operating variables as compared to gas metal arc welding, but the process efﬁciency is lower than that in gas metal arc welding due to slag ingredients that aid in protection from the atmosphere but do not become weld metal. With the gas-shielded process, the shielding gas is easily blown away by air drafts, as it would be with gas metal arc welding. However, with the self-shielded electrodes, protection from wind is similar to that of shielded metal arc welding, allowing it to be used for outdoor applications. Both gas shielded and self-shielded ﬂux cored arc welding can be used in automated or robotic welding.  
+
+Flux cored arc welding has a wide range of applications. It is a versatile process utilized by fabrication shops for a variety of parts and products. It has the capacity to weld metals as thin as that used in vehicle bodies and as thick as heavy structural members of high-rise buildings.  
+
+# Electrogas Welding  
+
+Electrogas welding (EGW), illustrated in Figure 1.13, is a mechanized arc welding process that utilizes either ﬂux cored or solid electrodes. The shielding gas may be applied from an external source or produced by a ﬂux cored electrode, or both. Electrogas welding has been used successfully on titanium and aluminum alloys in addition to steels. It is applied in the manufacture and repair of storage tanks, pressure vessels, ship hulls, and structural members.  
+
+The operation and applications of electrogas welding are similar to those used in electro slag welding, a highenergy-density process which is described in the section titled “Other Welding and Joining Processes.” Although these processes utilize different heating methods, both are used to weld thick sections in the vertical position.  
+
+Electrogas welding machines vary in size from portable 75 lb   $(35~\mathrm{kg})$   units that are usually self-propelled to the more commonly used massive machines that are moved by cranes from one weld joint to another. Both the lightweight and heavy units are typically used to weld sections 1/2 in. to 3 in. (  $13\ \mathrm{mm}$   to   $76~\mathrm{mm}$  ) thick using a single electrode. To maintain constant arc  
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/dd5e3ab01be05e38a4d887934bebca0ccf003a71d06b70be0fb94fe0577b4d53.jpg)  
+Source:  Adapted from Linnert, G. E., 1994,  Welding Metallurgy , 4th ed., Miami: American Welding Society, Figure 6.17.  
+
+voltage, the vertical movement of the welding head is usually automatic, though other methods can be implemented. For c irc um fe rent i al welds, the welding head is ﬁxed while the workpiece is rotated with the axis in the horizontal position.  
+
+The welding current used in this process depends on the electrode diameter and type. In general, EGW machines operate at amperages as high as 400 A with solid electrodes and as high as  $750\,\mathrm{A}$   with ﬂux cored electrodes. Deposition rates for these machines are typically 15 pounds per hour (lb/hr) to   $30~\mathrm{lb/hr}$   (7 kilograms per hour   $\mathrm{[kg/hr]}$   to   $13~\mathrm{kg/hr},$  ). Travel speed along the joint is governed by section thickness and deposition rate.  
+
+Electrogas welding has the capacity to produce square-groove and single-V butt joints. This process is also used for welding T-joints. Simple edge preparation for these standard joints minimizes joint preparation costs. Weld soundness is generally excellent, and because transverse shrinkage is uniform, the joints are essentially free of angular distortion. In addition, the use of high current density results in high deposition rates. Thus, this process offers both economic and quality beneﬁts.  
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2992a8fa6e3366bdc91a51fc723512ae672495030236c92440d8319b4eb4fb22.jpg)  
+Figure 1.13—Schematic Representation of Electrogas Welding  
+
+# Plasma Arc Welding  
+
+Plasma arc welding (PAW), illustrated in Figure 1.14, produces welds by striking a constricted arc between a non consumable electrode and the weld pool (transferred arc) or between the electrode and the constricting nozzle (non transferred arc). Shielding from the atmosphere is provided by the ionized gas that emanates from the torch. This is supplemented by externally added shielding gas. No pressure is used to form welds in this process. Employed in the manufacturing, aerospace, and nuclear industries, plasma arc welding lends itself to automated and robotic welding.  
+
+Though classiﬁed as a gas shielded arc process, plasma arc welding functions like a high-power-density process, as it has the capacity to join materials with the keyhole welding technique (see below) along with the conventional melt-in welding method (i.e., involving weld pools). A tungsten electrode is recessed in a nozzle that has a very small oriﬁce through which the arc/gas plasma has been heated to an ionized condition, allowing it to carry electric current. This constricted oriﬁce concentrates the power, creating a high-power-density process. The PAW arc is stiffer and more stable than that used in gas tungsten arc welding. Thus, the PAW arc is less sensitive to the torch stand-off distance between the nozzle and joint.  
+
+As illustrated in Figure 1.14, in both the transferred arc and non transferred arc process variations, the tungsten electrode is negative. In the transferred arc mode, the workpiece is positive, whereas in the non transferred arc variation, the oriﬁce nozzle is positive. The constricted oriﬁce concentrates the heat to produce a plasma temperature more than three times that of an open arc process. Therefore, keyhole welding is possible in metal thicknesses up to 0.5 in.   $(13\ \mathrm{mm})$   when implementing transferred arc plasma arc welding on a tightly ﬁtted square butt joint. Thicker materials can be welded  
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/67bf2a3b7bf8256c24d2408a2e92ffd126c656fd5067e03895345ae7ef3993ee.jpg)  
+Figure 1.14—Schematic Illustration of Plasma Arc Welding: Transferred Arc (Left); Non transferred Arc (Right)  
+
+using the keyhole method when combined with a  $\mathrm{V}\mathrm{-}$   or U-groove through a portion of the joint thickness.  
+
+The keyhole technique results in excellent productivity. However, it demands precise travel speed and therefore requires mechanization. In contrast, non transferred arc plasma welding is used mostly for melt-in welding techniques, surfacing, and thermal spraying applications. It lends itself to manual control in many instances.  
+
+A low-power version of plasma arc welding, sometimes referred to as  micro plasma  or  needle arc welding , is capable of welding materials as thin as 0.001 in.  $(0.02\ \mathrm{mm})$  ). Much of this type of welding can easily be done manually.  
+
+# Arc Stud Welding  
+
+Arc stud welding (SW), illustrated in Figure 1.15, is a versatile welding process used to join innumerable devices—usually fasteners—to base metal. This process utilizes an arc struck between a metal stud and the workpiece and is applied without ﬁller metal and with or without shielding gas. Partial shielding may or may not be provided by a graphite or ceramic ferrule surrounding the stud. Pressure is applied when the faying (intimately ﬁtting) surfaces are adequately heated.  
+
+In manual arc stud welding, the stud and the graphite or ceramic ferrule are loaded into the chuck and held against the workpiece at the desired location. When the gun trigger is depressed, the stud is lifted, drawing an arc that is sustained for the prescribed length of time set on the timer. For a stud 3/8 in.   $(9.5~\mathrm{mm})$   in diameter, a typical arc time is 1/3 second (s). Most studs require less than 1 second of arc time. A molten pool forms on the workpiece and on the end of the stud. Then, as the current stops ﬂowing, the stud is plunged into the workpiece, and the two pools coalesce and solidify. This creates a weld across the whole cross section of the stud, plus some excess. The graphite or serrated ceramic ferrule serves as a spacer and a physical shield. It is recessed to shape the excess weld metal. De oxidation is  
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6ccd81a6a05f78e6569f7382febb5de221d3524005614fcb9e03dd8e4fc39361.jpg)  
+Source:  Adapted from Kielhorn, W. H., 1978,  Welding Guidelines with Aircraft Supplement , Englewood, Colorado: Jepperson Sanderson, Figure 5.63.  
+
+# Figure 1.15—Schematic Representation of Stud Welding  
+
+accomplished with either an aluminum pellet or ﬂux under a cap on the end of the stud. Once the parameters for a given application are set, little skill is required to implement the process. Figure 1.16 illustrates a variety of available studs.  
+
+Studs smaller than   $1/4$   in.   $(6~\mathrm{mm})$   in diameter typically use capacitor discharge energy. When small studs are used, the welding time is only a few milliseconds. A graphite or ceramic ferrule is not used due to the extremely short arc time. Moreover, shielding methods are not required unless the metal oxidizes extremely quickly, as does aluminum. In this case, inert gas shielding, usually argon, is required.  
+
+Power sources for arc stud welding are normally dc constant-current rectiﬁers or engine-driven machines with sufﬁcient amperage capacity for the size of studs being welded. A bank of batteries may be used when sufﬁcient electrical current is not available. Arc stud welding processes using dc constant-current rectiﬁers or engine-driven power sources are used extensively in automated systems.  
+
+The major advantages of stud welding are the minimal time and skill required for the operation. The process lends itself nicely to robotic welding. The process can be completely automated, or it can incorporate  
+
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8471cda3011892b51608e23aebe024dae0da3143941c03ecebaaf6aee5e03c09.jpg)  
+Photograph courtesy of Nelson Stud Welding ®  
+automatic stud loading to the gun with manual gun manipulation. Alternatively, the studs can be loaded manually into the gun. A limitation of the process involves the use of a brittle base metal, such as gray cast iron, in which weld metal shrinkage cannot be tolerated and heat-affected zone cracking occurs.  
+
+# RESISTANCE WELDING  
+
+Resistance welding (RW) encompasses a group of processes that effect the joining of faying surfaces with the heat obtained from the workpiece’s resistance to the ﬂow of welding current and with the application of pressure. Shielding gases are not needed because air is squeezed out of the faying surfaces by the force inherent to the processes. The vehicle manufacturing industry, among others, employs the resistance processes extensively in applications in which the product design speciﬁes gauge thicknesses that are lapped. Access to both sides of the weld is also required for the electrodes to apply force. Fully automatic and robotic systems are used for many of these applications.  
+
+Commonly implemented resistance welding processes are resistance spot welding (RSW), resistance seam welding (RSEW), resistance projection welding (RPW), and resistance stud welding. The main process variables associated with these resistance welding processes are welding current, welding time, electrode force, electrode material, and tip con gu ration. Once the parameters for these variables are properly adjusted, very little skill is required to operate the equipment.  
+
+These four processes are used extensively in the joining of metals up to   $3/16$   in.   $(4.8\ \mathrm{mm})$  ) thick that can be upset by the electrode force. In these processes, copper electrodes apply force to the lapped workpieces to be joined. The force on the faying surfaces at the joint interface squeezes out the air, and the base metal is rapidly heated. A short circuit practically exists when the high-current, low-voltage power is applied. However, most heating occurs at the location in the circuit where the electrical resistance is the greatest. It is essential that the metals to be joined have higher electrical resistance than the electrode. In other words, the electrical resistance must be greater between the two metals to be joined than between the electrode and base metal.  
+
+A great deal of resistance welding is performed with single-phase ac current. Unfortunately, the very high welding current on a single phase yields a poor power factor. Another resistance welding variation uses very high three-phase dc output current for short durations. This variation supplies an excellent power factor as the current load is balanced on all three phases. Yet another resistance welding approach utilizes the capacitor discharge method, which provides dc pulses as the capacitors discharge their store of electrical power. Although the total power requirement is relatively low in resistance welding, instantaneous power demand is very high. The electrical conductors must therefore be designed to carry the maximum kilovolt ampere (kVA) demand for the machine.  
+
+Good electrode tip shape and condition are important factors with respect to consistent weld quality. Thus, for production operations, schedules are normally established to provide for the cleaning and the re machining of electrode con gu rations to their original design.  
+
+Other important resistance processes include ﬂash welding, upset welding, and high-frequency upset seam welding. Instead of welding lapped surfaces as in the previously described resistance welding processes, the ﬂash, upset, and high-frequency upset seam processes weld together the edges of two workpieces or the edges of a rolled pipe seam. High-amperage alternating current and low voltage are normally used.  
+
+# Spot Welding  
+
+Resistance spot welding (RSW) involves the application of the welding current through electrodes that concentrate the current and pressure in the area of the weld. A nugget of weld metal is produced at the location where the electrodes are positioned. Figure 1.17 illustrates this concept.  
+
+The electrodes used in spot welding not only conduct the welding current to the workpiece but also transmit a force and dissipate heat from the weld zone. Typically made of copper alloy, they have a straight shank and a conical or domed tip. It takes less than one second to make a single weld with industrial-duty equipment. For example, the joining of steel sheets   $1/16$   in.   $(1.6\ \mathrm{mm})$  ) thick with the application of an alternating current of approximately 12,000 A and   $4\mathrm{~V~}$   requires a weld time of 15 cycles or   $0.25~s$  .  
+
+The basic equipment used in resistance spot welding consists of an electrical circuit, control equipment, and a system to apply force. This process is performed using a variety of equipment, ranging from utility spot welders to sophisticated systems that make hundreds of spot welds automatically within a few seconds.  
+
+Vehicle body panels require over 1000 spot welds using robotic systems to join them together in a few seconds. Sheet metal shops use less sophisticated systems to join many other thin-gauge products using spot welding. The minimal welding time and operator skill required are the main advantages of this process. The principal disadvantage is the need to have accessibility to both sides of the workpiece as opposed to being able to make welds from one side only.  
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f98475ceff70d43a2442adb497bde6004a076d0d8ef02213bbc0e0ca836ec2a2.jpg)  
+Source:  Adapted from Linnert, G. E., 1994,  Welding Metallurgy , 4th ed., Miami: American Welding Society, Figure 6.26(A).  
+
+# Figure 1.17—Schematic Representation of Resistance Spot Welding  
+
+# Seam Welding  
+
+Typically used to produce leak-tight joints in sheet assemblies such as automotive gasoline tanks, resistance seam welding (RSEW) utilizes the fundamentals of resistance welding to produce a seam along the length of the joint. The seam is created with copper wheel-type electrodes that make a continuous weld by generating overlapping spot welds, as shown in Figure 1.18, or one continuous weld (see below).  
+
+Because the overlapping of welds causes a shunting effect (that is, decreased electrical resistance due to weld overlap), the current and duty cycle required for resistance seam welding are somewhat higher than those used in resistance spot welding.  
+
+Resistance seam welding machines designed to weld at high speeds apply a continuous ﬂow of current to the workpieces. This ﬂow forms a continuously fused weld (as opposed to overlapping welds) between the lapped faying surfaces. Another type of resistance spot welding utilizes current interruptions that are long enough to form a series of separate spot welds. This type of operation is known as  roll spot welding .  
+
+# Projection Welding  
+
+Used primarily to join one stamped, forged, or machined part (e.g., a fastener such as a nut or a bolt)  
+
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/82b0efc3704bdea2971e306c85d8af0d6a170c540c74e221ba54983150b0a148.jpg)  
+Source:  Adapted from Linnert, G. E., 1994,  Welding Metallurgy , 4th ed., Miami: American Welding Society, Figure 6.26(B).  
+
+to another part (e.g., sheet metal), projection welding (RPW) is a resistance welding process that produces welds at predetermined points, indicated by projections made on the parts during their manufacture. The electrodes used in this process are similar to those described for resistance spot welding. The specially prepared electrode tips precisely locate the projections on workpieces to be joined. Figure 1.19 illustrates this concept, which is used to produce projection welds in various carbon and alloy steels and some nickel alloys.  
+
+In this process, one of the two workpieces to be joined is designed to have one or more protrusions or projections. These projections become weld nuggets when the welding current and electrode force are applied. When more than one projection is formed on the part, the height of every projection must be even to permit it to be in contact with the second member. This allows each joining member to be heated properly when the current and force are applied. When the thicknesses of the workpieces are unequal, the projection should be located on the thicker piece. This ensures that the heating of both members is balanced, which is conducive to the production of strong welds.  
+
+An advantage offered by resistance projection welding is its short weld time cycle, which leads to high productivity. The ability to produce numerous welds simultaneously with a single set of electrodes is highly desirable compared to processes that are limited to  
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/258dc03acb00facdb1b758ed7d452585fb2048a5aefb19947f42cba93d4f1b71.jpg)  
+
+Source:  Adapted from Linnert, G. E., 1994,  Welding Metallurgy , 4th ed., Miami: American Welding Society, Figure 6.26(D).  
+
+# Figure 1.19—Schematic Representation of Resistance Projection Welding  
+
+producing one weld at a time. It is important to note, however, that precise control of all projection dimensions is imperative when multiple welds are made simultaneously. Another advantage offered by this process is that provisions are made to concentrate the heat at the weld locations by the projections themselves, which simpliﬁes the backing side of the circuit.  
+
+Resistance Stud Welding.  Resistance stud welding is a variation of the resistance projection process. Figure 1.20 illustrates threaded studs with the projections clearly visible. The dimensions of the projections must be controlled precisely, and equal pressure is required on all projections simultaneously. The pressure applied axially by the electrodes must be accurately aligned to produce welds of consistently high quality.  
+
+Studs for resistance stud welds are available in carbon steel and some alloy steels. The welding time is typically 10 cycles (0.17 second), fewer than that required for arc stud welding, which typically requires 20 cycles (0.33 second) for a 3/8 in.   $(10~\mathrm{mm})$  ) stud due to the extremely high currents used for resistance stud welding. However, the variety of studs is considerably more limited than that indicated for arc and capacitordischarge stud welding (see Figure 1.16).  
+
+# Flash Welding  
+
+Flash welding (FW), illustrated in Figure 1.21, utilizes both a ﬂashing action (i.e., the rapid melting of the metal at the points of contact due to the high current density at the points) and the application of pressure to generate welds at the faying surfaces of butt joints. When the faying surfaces are heated to welding temperature, force is applied immediately to generate the weld. Molten metal is expelled, the hot metal is upset, and a ﬂash is formed. Filler metal is not added during welding.  
+
+In this process, the workpieces are held ﬁrmly in copper-alloy jaws or clamps. Typically, one member is held stationary while the other is moved toward it. When contact is made, arc ﬂashes occur between the edges. The applied force causes the molten metal to be expelled from the joint in a shower of sparks, and the metal close to the joint is deformed in a phenomenon known as  upset . The irregularities and surface impurities are squeezed out into the upset portion, also termed ﬂash , yielding a high-quality weld zone. This ﬂash can be trimmed off for a smooth joint without stress raisers (i.e., changes in the section or surface that cause a concentration of stress, such as at the joint interface around the periphery of a spot weld).  
+
+Flash welding, usually an automated process, is widely implemented in the automotive, electrical, and petroleum industries. Applications range from the welding of a variety of material sections such as wires, rods, and shafts to the joining of rolled wheel rim ends.  
+
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/dc1bdb230c4c60ef335451d4e807089c1aeffa86d66d120751ab55dd5b63d776.jpg)  
+Figure 1.20—Threaded Fasteners (Studs) Manufactured with Projections for Use in Resistance Stud Welding  
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/30801a174eb811e77ce6d01f0617ecf1778abc9016c1385971d29fa68c9ae271.jpg)  
+
+Source:  Adapted from Linnert, G. E., 1994,  Welding Metallurgy , 4th ed., Miami: American Welding Society, Figure 6.33.  
+
+# Figure 1.21—Schematic Illustration of Flash Welding  
+
+# Upset Welding  
+
+Illustrated in Figure 1.22, upset welding (UW) produces welds by means of the resistance to the ﬂow of the welding current through the area in which the surfaces are in contact and the application of pressure. Unlike ﬂash welding, upset welding requires both workpieces to be held together and kept in contact under pressure before current is introduced. The completed weld zone is similar to that produced with ﬂash welding. This process is used in wire mill applications and in the fabrication of products made of wire.  
+
+A process variation of upset welding, termed  electric resistance welding  (ERW), is used for the creation of longitudinal tubular seams. Although much of the welding current ﬂows around the rolled section, the wheel-type electrodes are close enough to each other to produce sufﬁcient current ﬂow on the edges of the seam members for upset welding heat to develop. Squeeze rolls on either side of the tubular section force the edges together. This concept is similar to that used in high-frequency upset welding, except for the manner in which the welding current is introduced, as explained below.  
+
+# High-Frequency Upset Welding  
+
+High-frequency upset seam welding (UW-HF), illustrated in Figure 1.23, is a process variation of electric  
+
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b6cbad72b86cfda92a91d4c6006d8293212ceb67c5d17559ec0777e5b11c08ef.jpg)  
+
+Source:  Adapted from Linnert, G. E., 1994,  Welding Metallurgy , 4th ed., Miami: American Welding Society, Figure 6.26(E).  
+
+Figure 1.22—Schematic Illustration of Upset Welding  
+
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ef7e982afa331de6f5f6a53dfccd37225a0c12d4cd9b708b4204f97c9093d73c.jpg)  
+Source:  Adapted from Linnert, G. E., 1994,  Welding Metallurgy , 4th ed., Miami: American Welding Society, Figure 6.29.  
+
+# Figure 1.23—Schematic Illustration of High-Frequency Upset Seam Welding  
+
+resistance welding. Employed primarily in the joining of piping and tubular sections, this process involves the application of high-frequency current through the electrodes.  
+
+Initially, a metal strip goes through forming rolls to conﬁgure it into a pipe or tube. As the rolled section approaches the welding station, the V-opening of the edges is kept separated at an angle of   $4^{\circ}$   to   $7^{\circ}$   to the V-closure (the point of welding). This opening enables the maximum heating of the edges by the highfrequency current applied to the electrodes. The impeder also enhances the behavior of the current ﬂow to achieve maximum edge heating. The squeeze rolls push the heated edges together to produce the welded seam. The excess metal that has been squeezed out creates ﬂash, which is subsequently trimmed off to create a smooth surface at the welded area.  
+Sliding electrodes are preferred over the wheel-type electrodes since only light pressure is needed for this high-frequency, high-current application. When the frequency is increased from 60 hertz   $\left(\mathrm{Hz}\right)$   to 400 kilohertz  $(\mathrm{kHz})$  , the heating effect is not as deep but is more concentrated, thus resulting in increased welding speeds and increased productivity. Less electrical power is required when using high-frequency current due to concentrating the heat where needed rather than spreading it out. However, high-frequency current can cause hazards as it broadcasts electrical noise that can affect the performance of sensitive electronic equipment that may be in the area.  
+
+Figure 1.24 illustrates the use of an induction coil for the high-frequency upset welding of butt joints for pipe seams. When using an induction coil, heating is accomplished by inducing high-frequency current using a copper coil that encircles the pipe or tube. The induction coil heating method is preferred when a problem is posed by the electrode’s contacting the surface of the pipe or tube.  
+
+# SOLID-STATE WELDING  
+
+The solid-state welding (SSW) processes accomplish joining by the application of pressure at a temperature  
+
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4be1fe5f6149e932354e9f0bc9230ef5176b7ac0e520d613197250800d70d1ff.jpg)  
+
+Source:  Adapted from Linnert, G. E., 1994,  Welding Metallurgy , 4th ed., Miami: American Welding Society, Figure 6.31.  
+
+below the melting point of the base and ﬁller metals. Certain solid-state processes weld at approximately room temperature.  
+
+The solid-state processes have the capability to join dissimilar metals that cannot be successfully joined with processes involving molten metal. For example, the welding of aluminum to steel is readily accomplished by several solid-state processes inasmuch as the two materials are not melted and mixed. When iron and aluminum are melted and mixed together, a brittle inter metallic compound results; however, if iron and aluminum are joined with no melting involved, an interatomic attraction develops, producing a section with no brittle inter metallic s.  
+
+The six solid-state processes discussed here are presented in descending order from the highest-temperature process to the lowest-temperature process. These are forge welding (FOW), friction welding (FRW), diffusion welding (DFW), ultrasonic welding (USW), explosion welding (EXW), and cold welding (CW).  
+
+# Forge Welding  
+
+Forge welding (FOW) accomplishes joining by heating the materials to welding temperature and then applying pressure (hammer blows or steady pressure) to effect the weld. Possibly dating back to circa   $4000\ \mathrm{B.C.}$  . , forge welding is the oldest known welding process. Even then, articles were forged from both ferrous and nonferrous metals. It is postulated that forge welding may have been accomplished by ﬁrst heating the articles with the aid of a bellows to a high enough temperature for forging. As illustrated in Figure 1.25, hammer blows were applied to weld and shape the heated portion of the metal.  
+
+Forge welding remained the only welding method until late in the nineteenth century, when the electric and oxyacetylene processes came into existence. At present, some materials are still forge welded using the hammer method, while others are joined using the die and the roll welding (ROW) methods. In the fabrication of laminated coins, for example, three layers of metal are roll welded together before the stamping operation is initiated. Another contemporary application of this process involves the welding of low-carbon steels in the production of tubing and clad metals.  
+
+# Friction Welding  
+
+Friction welding (FRW), illustrated sequentially in Figure 1.26, is a solid-state process that accomplishes joining with the heat produced by means of the compressive force generated by the workpieces’ rotating or moving in relation to each other, causing the displacement of material from the faying surfaces. Friction  
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f3cf5734c918d0dde9a0d662fd6ebd0f68c821e166153d010b04309292b3510c.jpg)  
+Source:  ESAB, 1990,  Connections , ESAB Welding and Cutting Products, Hanover: Pennsylvania, p. 2.  
+
+# Figure 1.25—Ancient Forge Welding  
+
+welding machines are therefore designed to convert mechanical energy into heat at the joint to be welded. Normally, one of the two workpieces is circular or nearly circular in cross section. Shielding gas, ﬂux, and ﬁller metal need not be used. This process successfully joins a wide range of similar materials as well as a number of dissimilar metals, including aluminum to steel. The oil, defense, aerospace, automotive, electrical, medical, agricultural, and marine industries all employ friction welding.  
+
+To perform friction welding, a machine rotates one of the workpieces and forces it against the other, which is held stationary. This step is depicted in Figure 1.26(A). As shown in Figure 1.26(B), frictional heat at the joint interface raises the metal to forging temperature. Axial pressure forces the hot metal out of the joint, as can be seen in Figure 1.26(C). Oxides and other surface impurities are removed from the soft, hot metal.  
+
+Friction welding machines are equipped with (1) a drive head as a means for applying axial force and (2) a yoke or platform for mounting the tooling, which holds the workpiece to be welded in a ﬁxed position as it is being welded. Machines range in size from those capable of welding a 0.5 in.   $(13\ \mathrm{mm})$  ) diameter steel bar to those that can weld a steel bar 5.0 in.   $.125\,\mathrm{\mm})$  ) in diameter. The friction welding cycle is usually automatic. If automatic loading and unloading devices are installed, the machines are completely automatic. As a result, little skill in terms of manual dexterity is needed.  
+
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e7cdc82cd946820d025b6ae4685ef9e85a98dfb47294e46140ac84d75736aaf9.jpg)  
+Figure 1.26—Schematic Illustration of Friction Welding  
+However, a mechanical aptitude and an understanding of machine operation are required to set up jobs properly and maintain equipment in good operating condition.  
+
+Two major process variations of friction welding are commonly employed. In the ﬁrst, termed  direct drive friction welding,  the moving workpiece is held in a motor-driven collet and rotated at a constant speed while axial force is applied to the stationary workpiece. The stationary part must be held rigidly to resist the axial force and prevent it from rotating. Rotation is continued until the entire joint is heated suf cie ntl y. Then, simultaneously, the rotation is stopped and an upsetting force is applied to complete the weld. In this case, the welding process variables are rotational speed, axial force, welding time, and upset force. Since energy must be provided at the rate necessary to make the weld, the process requires a relatively high-powered drive motor.  
+
+The second variation is known as  inertia friction welding . In this method, energy is stored in a ﬂywheel, which is accelerated to the required speed by a drive motor. The ﬂywheel is coupled directly to the drive motor by a clutch. The ﬂywheel is also coupled to the collet, which grips the rotating workpiece. A weld is made by applying an axial force through the rotating workpiece while the ﬂywheel decelerates, transforming its kinetic energy to heat at the joint. The weld is completed when the ﬂywheel stops. The welding variables for this process are the ﬂywheel moment of inertia, ﬂywheel rotational speed, axial force, and upset force (if used).  
+
+The time required to generate friction welds is measured in seconds. Inertia welds require from less than 0.5 seconds to approximately 15 seconds, exclusive of the time needed to accelerate the ﬂywheel to the designated speed. With either type of machine, the time required to load and unload parts is longer than the actual weld time.  
+
+Friction Stir Welding.  A more recently developed process variation of friction resistance welding is friction stir welding. This process was spec i call y designed for use with certain aluminum alloys. Figure 1.27 illustrates the basics of the process, wherein a probe or tap with a diameter of   $0.20{\mathrm{~in~}}$  . to 0.24 in. (  $5~\mathrm{mm}$   to  $6~\mathrm{mm}$  ) is rotated between the square-groove faying edges. The shouldered non consumable collar has a smoothing effect on the top surface. A temperature of   $840^{\circ}\mathrm{F}$   to  $900^{\circ}\mathrm{F}$     $.450^{\circ}\mathrm{C}$   to   $500^{\circ}\mathrm{C})$   is generated as the slightly tilted rotating probe travels along the length of the joint, stirring the hot metal, thereby creating the weld. A typical welding speed is 24 in.  $/\mathrm{min}$     $(600\ \mathrm{mm/min})$   on an aluminum section thickness of   $0.25$   in. (  $(6~\mathrm{mm})$  ).  
+
+Aluminum thicknesses ranging from 0.06 in. to 0.5 in. (  $.1.5\ \mathrm{mm}$   to   $30~\mathrm{mm}$  ) can be welded by friction  
+
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/418858a27a4709769f1c9dd8325c9d3962d502e68ccf83c20dcedee7b17ba63e.jpg)  
+Figure 1.27—Schematic of Friction Stir Welding  
+
+stir welding using a conventional milling machine equipped with the welding tool rather than a milling machine cutter. High quality welds with no porosity or cracks result. These welds pass bend and tension tests, which evaluate fracture in the heat-affected zone.  
+
+The advantage offered by friction stir welding as compared to friction welding is that the workpieces need not be rotated against each other while being held under pressure. A disadvantage is that the choice of metals that can be joined by means of friction stir welding is very limited, as indicated above.  
+
+Friction Stud Welding.  Friction stud welding is a solid-state welding process in which the stud is rotated at several hundred to several thousand revolutions per minute while held under pressure against the surface of the workpiece. At the required temperature, the rotation is quickly stopped, and the pressure on the stud is increased to produce the weld.  
+
+The greatest potential of this type of stud welding is derived from the absence of molten metal in the process. This allows for increased ﬂexibility in the joining of dissimilar metals. Some combinations form brittle inter metallic compounds when melted and mixed, as is the case with aluminum and steel. However, if the weld is effected by bringing the atoms into close enough proximity to form a bond while in the solid state, these inter metallic s are avoided, and satisfactory joint properties are achieved. On the other hand, the biggest disadvantage of friction stud welding is its lower productivity compared to the other stud welding processes (see above).  
+# Diffusion Welding  
+
+Diffusion welding (DFW) is a solid-state process that achieves coalescence by applying pressure at high temperatures with no relative motion or visible deformation of the workpieces. A ﬁller metal may be inserted between the faying surfaces.  
+
+Figure 1.28 depicts the stages that result in the joining of two workpieces during diffusion welding. Figure 1.28(A) indicates the asperities (peaks and valleys) of an equiaxed grain structure at the edges of the two workpieces approaching each other with only the peaks touching. Figure 1.28(B) represents the ﬁrst stage, in which pressure and heat application cause deformation of the grains at the interface of the workpieces, with the boundaries at the interface still deﬁned. Figure 1.28(C) illustrates the second stage, in which diffusion across the boundaries occurs as atoms migrate to new positions and pores from the valleys are eliminated. Figure 1.28(D) depicts the third stage, in which the heat and pressure have continued to the extent that volume diffusion of the atoms has occurred and caused the boundaries to disappear. A new grain formation is evident across the interface, virtually eliminating the pores.  
+
+Diffusion welding occurs in the solid state when properly prepared surfaces are in contact under predetermined conditions of time, pressure, and elevated temperature. The applied pressure is set above the level needed to ensure essentially uniform surface contact but below the level that would cause macroscopic (visual) deformation. The temperature is generally well below the melting point. A ﬁller metal, which is typically positioned before welding as an insert or plating, may be used. In general, the ﬁller metal lowers the temperature, pressure, or time required for welding, thereby permitting welding in a more economical atmosphere.  
+
+The heating required for diffusion welding can be generated in a furnace or retort or by means of resistance techniques. Pressure is applied by uniaxial ﬁxturing; by dead-weight loading; or by utilizing a press, differential gas pressure, or differential thermal expansion of the workpieces. When joining assemblies with intersecting planar surfaces, high-pressure autoclaves or differential gas pressure techniques can be used. Uniaxial methods of applying pressure are limited to welding parallel planar surfaces roughly perpendicular to the  
+
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/dcf78fbc6c6163e76441c95ecf3a9a97649cbb0d72ae820dfab070212d29cef8.jpg)  
+Figure 1.28—Schematic Representation of the Stages of Diffusion Welding  
+direction of load. These techniques, which are mechanized, require the appropriate equipment. The encapsulating or “canning” of workpieces in an evacuated envelope to be welded is necessary when differential pressure techniques are applied. The encapsulating of parts is also useful in the implementation of other diffusion welding process variations.  
+
+A variety of similar and dissimilar materials can be joined by diffusion welding. Nonetheless, the process has a number of limitations. Equipment costs are high. This process is economical only when close dimensional tolerances, expensive materials, or special material properties are involved. For this reason, diffusion welding is widely used mainly by the aerospace, nuclear, and electronics industries. Although it is sometimes used to fabricate complex, one-of-a-kind devices, it is better suited to moderate production volumes. Diffusion welding is not adaptable to a high production rate. Moreover, the costs incurred in the use of consumables are high if precious ﬁller metals or inert gases are used. A high level of operator training is required for most operations. Only fully automated operations permit the use of semiskilled personnel.  
+
+# Ultrasonic Welding  
+
+Ultrasonic welding (USW), used in the semiconductor, micro circuit, electrical, aluminum fabricating and chemical industries, is a solid-state process that forms a weld by applying localized high-frequency vibratory energy while the workpieces are held together under light pressure. A sound metallurgical bond is produced without signiﬁcant heat.  
+
+The basic equipment required in this process is shown in Figure 1.29. A light clamping force applies pressure through the reed to the sonotrode tip. The transducer is wedge-shaped where it attaches to the reed. It produces the vibration that disrupts surface roughness and impurities prior to welding. The workpieces are placed beneath the sonotrode tip and supported underneath to sustain the force used, thereby holding the workpieces together.  
+
+Though ultrasonic welding bears a resemblance to resistance welding, it utilizes no electrical current ﬂow or signiﬁcant heat across the joint interface. The transducer used in the process typically vibrates at   $20~\mathrm{kHz}$  . The vibratory energy disrupts surface roughness and impurities, inter atomic attraction occurs, and a weld results. The equipment components must be acoustically tuned to each other or the weld will not take place. It should be noted, however, that the ultrasonic welding process is limited to the size and capability of the transducer.  
+
+Process variations have been developed to form welds in spot, ring, line, and seam con gu rations. Metals such as aluminum and copper and nonmetals such  
+
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0fbbe228236e9a513015983ab5b71873275b0257629c504c723cd84068db3d81.jpg)  
+Figure 1.29—Schematic Representation of Ultrasonic Welding  
+
+as thermoplastics are routinely joined by ultrasonic welding. The process has the capacity to weld thin sections to thick sections and join a variety of dissimilar materials. For metals, the process is limited to the welding of relatively thin, lapped sections and the joining of wires to sheet or wires to other wires. Once the parameters are set, little skill is required to operate the ultrasonic welding process. This process can be used for automatic and robotic applications.  
+
+# Explosion Welding  
+
+Explosion welding (EXW) is a solid-state process that utilizes a controlled detonation to impact two workpieces at a very high velocity, thereby creating a weld. Explosion welding occurs essentially at ambient temperature. As illustrated in Figure 1.30, the explosion  
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/22bae7d9aa887aebbf1772e5d0b354261eefdbaa7da0bae9c36cd2bc55d70cbe.jpg)  
+Figure 1.30—Schematic of Explosion Welding  
+
+accelerates the prime component toward the base component at a speed that causes the formation of a metallic bond between them when they collide. The explosion bends the prime component locally as the detonation quickly progresses. Then, the prime component quickly crosses the standoff distance and impacts the base component. Any heat that may be produced by the impact is not signiﬁcant to the joining process, as welding is accomplished by the plastic ﬂow of the metal pieces across the faying surfaces.  
+
+Explosion welding can be used to join metals having sufﬁcient strength and ductility to withstand deformation at the high velocities required to implement the process. It is typically used to join thin metals to dissimilar thicker metals. For example, explosion welding is commonly implemented to join thin-gauge stainless steel (the prime component) to thick mild steel (the base component) to create a corrosion-resistant surface on a massive object. In this case, the base component may be supported by a backing if it is not large enough to sustain the impact of explosion welding on its own.  
+
+# Cold Welding  
+
+Cold welding (CW) is a solid-state process that involves the use of pressure at ambient temperature to effect a weld with substantial deformation of the workpiece. Though this process resembles upset welding, no electrical current ﬂows across the joint. No heat is used or generated; force alone is employed to accomplish joining. As shown in Figure 1.31, the metal must be supported near the joint. A force strong enough to cause upset is then applied. This forces out surface roughness and impurities and promotes inter atomic attraction by moving the atoms at the edge of the workpieces closer together, thereby creating a weld.  
+
+Not all metals can be joined using the cold welding process. Successful cold welding requires that at least one of the metals being joined be highly ductile and exhibit minimal work hardening. Metals that workharden quickly when deformed start cracking before joining is accomplished. Metals that have a facecentered cubic arrangement of atoms and do not work harden quickly are best suited to the process. These include aluminum and copper as well as gold, silver, and platinum. Thus, cold welding is used in the manufacture of wire made of these metals.  
+
+# OXYFUEL GAS WELDING  
+
+Oxyfuel gas welding (OFW) encompasses a group of processes that utilize the heat produced by a gas ﬂame to melt the ﬁller metal, if used, and the base metal, thereby creating a weld. Filler metal and the application of pressure may or may not be used. Oxyfuel gas welding is used mainly in circumstances in which faster processes are not available. One notable exception is the repair welding of gray cast iron. For this application, a cast iron ﬁller rod is used with the oxyfuel gas ﬂame to produce repaired areas that are very similar in composition and properties to the casting itself. If a color difference in the repaired area is acceptable, an alternate  
+
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b0be9304effda1f180f79379555c705d1a5f69424f3a6b24cd67e3f24d2c2ee7.jpg)  
+Source:  Adapted from Kielhorn, W. H., 1978,  Welding Guidelines with Aircraft Supplement , Englewood, Colorado: Jepperson Sanderson, Figure 2.2.  
+procedure may be used. This involves the use of a brass ﬁller rod to produce a braze weld, which accomplishes the repair without melting any of the cast iron.  
+
+In the oxyfuel gas welding process, a combustible fuel gas is mixed with oxygen and ignited. The temperature at which it burns is a function of the amount of oxygen present in the gas mixture. If fuel gas with no oxygen added were ignited, aided only by the   $20\%$   oxygen contained in ambient atmosphere, the ﬂame temperature would be too low for welding. If the gas were mixed with nearly   $100\%$   oxygen, ﬂames would reach temperatures exceeding   $5500^{\circ}\mathrm{F}$     $(3038^{\circ}\mathrm{C})$  .  
+
+The fuel gas most commonly used is acetylene. Compared with other fuel gases, acetylene can produce the hottest and most concentrated ﬂame. The oxyacetylene ﬂame also produces carbon dioxide, which serves as a shielding gas. Other fuel gases such as stabilized methylacetylene-propadiene (MPS) and hydrogen are sometimes used to weld metals with low melting temperatures.  
+
+Figure 1.32 demonstrates three types of ﬂames that can be produced with oxyacetylene mixtures. In the illustration at the top, the ﬂame is neutral, containing approximately equal volumes of oxygen and acetylene. The inner cone and outer bush are the only parts of the ﬂame. The ﬂame is considered neutral because it neither sign i cant ly adds to nor subtracts any elements from the weld pool.  
+
+It can be noted that the ﬂame illustrated in the middle, known as a  reducing ﬂame,  has a secondary feather extending from the inner cone. This secondary feather is caused by excess acetylene in the ﬂame mixture, which alters the chemical composition of the weld pool by reducing iron oxide (reducing effect) and adding carbon (car buri zing effect).  
+
+In the bottom ﬂame, oxygen is predominant in the gas mixture and has an oxidizing effect on the weld pool. Referred to as an  oxidizing ﬂame , this ﬂame has a harmful effect on the properties of ferrous alloys. Like the neutral ﬂame, the oxidizing ﬂame has just two parts. However, it is usually shorter than the neutral or reducing ﬂame and has a sharper point than the neutral ﬂame.  
+
+The rate of heat input is slower in oxyfuel gas welding than in any other process that uses heat to bring the base metal to the melting temperature. This slow rate of heat input results in increased weld production time, increased energy consumption, and wider heat-affected zones with the attendant coarse-grain structure and poor mechanical properties, especially in high-strength ferrous alloys. When welding metals with excellent heat conduction, such as copper-based alloys, preheat is required to lower the temperature gradient suf cie ntl y to enable the oxyfuel ﬂame to form the weld.  
+
+A variation of oxyfuel gas welding known as  pressure gas welding  (PGW) uses the ﬂames to bring the abutting edges to the melting temperature and then applies pressure to force the two workpieces together. This process variation has been mostly replaced by ﬂash welding (FW), which has the capacity to produce welds at a much faster speed.  
+
+Oxyfuel gas welding equipment is relatively inexpensive and widely available. As it can also be used for cutting, brazing, soldering, surfacing, and heating applications, it is also extremely versatile. Thus, the oxyfuel gas process is well suited for small businesses and individual consumers.  
+
+# OTHER WELDING AND JOINING  PROCESSES  
+
+Four important welding and joining processes are discussed in this section. These are electron beam welding, laser beam welding, electro slag welding, and adhesive bonding.  
+
+Electron beam and laser beam welding are referred to as  high-power-density processes . They utilize a very high rate of heat input. These processes usually require automation and have excellent potential for high-speed production. The high-power-density processes are capable of producing welds in which a vaporized hole that fully penetrates the metal thickness is surrounded by molten metal. This type of weld, termed a  keyhole weld , is illustrated in Figure 1.33. As the keyhole reaches the bottom surface, either the process (the welding gun) or the joint is moved at a speed that allows the molten metal surrounding the vaporized hole to ﬂow around to the rear, coalesce, and solidify, forming the weld. Plasma arc welding (see above) is related to these processes in that it also uses the keyhole technique with the high energy density produced by means of a constricted arc plasma.  
+
+The most common joint design used in the highpower-density processes is a precisely ﬁtted square-groove  
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/173139f631a8e9836eaea6f3bff1c204dc69c387cd32cf3b5d9f4ac19f8ab867.jpg)  
+Source:  Adapted from Powers, D. E., and G. R. LaFlamme, 1988, EBW vs. LBW—A Comparative Look at the Cost and Performance Traits of Both Processes,  Welding Journal  67(3): 25–31, Figure 1.  
+
+butt joint for an autogenous weld. These processes may also use consumables. Filler metal can be either shim stock or wire. Shim stock is placed between abutting edges, or wire is fed into the joint.  
+
+The heat-affected zones in keyhole welding with these processes are normally very narrow and accompanied by rapid cooling rates, which are advantageous with some alloys. However, if slower cooling rates are desired, the joint area to be welded must be preheated.  
+
+Electro slag welding, like electrogas welding (described under the section titled “Arc Welding”) is used to join thick sections in the vertical position, usually in a single pass. Both of these processes are sign i cant ly more cost effective than multipass procedures with conventional arc processes.  
+
+Adhesive bonding is similar to brazing and soldering in some respects. Like brazing and soldering, some adhesive bonding techniques utilize heat. Heat may be applied during the process or generated by the curing of the adhesive. As is the case with brazing and soldering, adhesive bonding involves no melting of the surfaces being joined. Unlike in brazing and soldering, however, no metallurgical bond is formed.  
+
+# Electron Beam Welding  
+
+Used for high-precision and high-production applications involving most metals, electron beam welding (EBW) accomplishes joining by means of a concentrated stream of high-velocity electrons that is formed into a beam to provide a source of intense local heating. The basic equipment required for most electron beam welding includes a vacuum chamber, controls, an electron beam gun, a three-phase power supply, an optical viewing system or tracking device, and work-handling equipment. The operation of this equipment may be either semiautomatic or automatic.  
+
+Electron beam welding is illustrated schematically in Figure 1.34. Electrons are dispersed from the electrically excited, negatively charged cathode. The grid (bias cup) partially shapes the electron beam. The speed of the electrons is greatly accelerated to   $30\%$   to   $7\bar{0}\%$   the  
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3a559b446007143d246d3fe5e1fa6dddb08d66184bbc2c99e946ec0350210676.jpg)  
+
+speed of light, and the beam is shaped by the positively charged anode. The diffused beam then passes through the magnetic focusing coil, which focuses it on the weld site. The beam subsequently passes through the magnetic deﬂection coil, which has deﬂection capabilities, if these are desired for the application.  
+
+The electron welding beam process can focus the beam onto a minute spot approximately 0.04 in.   $(1\;\mathrm{mm})$  ) in diameter. As the metal is bombarded by the electrons, the rapid heating produces a vapor hole surrounded by the molten metal that forms the weld. The molten metal ﬂows to the rear of the vaporized hole and coalesces as the workpiece or beam is moved along the joint. The vacuum, if one is used, provides very effective shielding from the atmosphere. Even a moderate vacuum provides better protection from oxidation than inert gas shielding from a nozzle. Precise control of travel along the joint is required for full weld penetration. Moreover, because the electron beam can be so small, edge preparation and ﬁtup must be precise. Sufﬁcient shrinkage to cause weld buildup on the surface may occur in thick sections, even without ﬁller metal.  
+
+The three process variations of electron beam welding—high vacuum, medium vacuum, and nonvacuum welding—are based on the degree of vacuum used. As shown in Figure 1.34, the high vacuum (EBW-HV) variation, which often is referred to as  hard-vacuum electron beam welding , typically utilizes a pressure of  $1\,\times\,10^{-3}$   torr   $(1.3\times{}\bar{10^{-2}}$   pascal   $[\mathrm{Pa}].$  ). The medium vacuum variation (EBW-MV) typically employs a vacuum of   $2\times10^{-1}$   torr   $(26.7\ \mathrm{Pa})$  . The nonvacuum variation (EBW-NV), often referred to as  atmospheric electron beam welding,  obviously uses no vacuum at all, which is 760 torr   $(1\times10^{5}\;\mathrm{Pa})$  .  
+
+Figure 1.35 illustrates the different levels of penetration produced by these process variations. It can be observed that the high vacuum process renders the greatest penetration. With the medium vacuum process, the weld proﬁle is wider and not as deep. The weld proﬁle becomes even wider and shallower with the nonvacuum process.  
+
+Several other variables affect joint penetration in high vacuum electron beam welding. These include travel speed, beam power, beam focal point, and beam focus or shape. For instance, when welding thin sections, the intensity of the beam can be lowered by changing the shape of the beam into a straight line, a circle, or another con gu ration.  
+
+A major advantage of high vacuum electron beam welding is that it produces deep, narrow welds with low total heat input and comparatively narrow heataffected zones. The high vacuum process produces the greatest penetration, with a weld depth-to-width ratio of about 25:1. The narrow heat-affected zone produced is illustrated in Figure 1.36. In addition, very high travel speeds are possible on thin sections. If the speed is too fast, however, joint penetration may be less than   $100\%$  , and porosity may occur near the weld depth termination. If the travel speed is too slow, the molten metal around the keyhole fails to coalesce, and no joining takes place. It is also important to note that when welding thick sections of some alloys, magnetic ﬁelds cause the beam to curve away from the joint. In this case, the weld will not fully penetrate, and the lower portion of the joint will not be welded.  
+
+Electron beam welding has its limitations, however. First, the capital costs associated with this process are substantially higher than those incurred with arc welding equipment, though unit cost is competitive when production volume is high. When performing electron beam welding in a moderate vacuum or no vacuum, atmospheric molecules quickly dissipate the beam energy. This phenomenon may make electron beam  
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a59cad62e7c814d934dca173bdf19e17d0a18a667f64727c1657a7b5062cab22.jpg)  
+Figure 1.35—Electron Beam Penetration as a Function of Operating Pressure  
+
+welding less desirable than other processes with considerably smaller capital investments.  
+
+In addition, in the high vacuum and medium vacuum variations, a signiﬁcant amount of pump-down time is incurred while placing the parts in a vacuum chamber, though welding in a medium vacuum involves less pump-down time than the high vacuum process. As they require a vacuum chamber, the high and medium vacuum processes are limited with respect to the size of parts that can be welded. Production speed can be augmented by increasing the size of the vacuum chambers to permit them to accommodate more workpieces. Another option to increase productivity is the use of chambers in a circular, or carousel, arrangement. After the workpiece is loaded into the carousel, it is sent at timed intervals through the chambers, where the vacuum becomes progressively higher. In the ﬁnal chamber, the desired vacuum is attained, and the workpiece is welded.  
+
+When performing electron beam welding in a vacuum, porosity and spatter can be caused by the evolution of gas as the metal is melted by the beam, a phenomenon known as  outgassing . When the evolving gas causes the ejection of molten drops of metal that scatter over the work surface, the solidiﬁed drops take the form of spatter. It is important to keep the workpiece clean in order to minimize outgassing. In the presence of a vacuum, the gases and impurities present in the material evolve during welding, causing the workpiece and the chamber to become coated with residue.  
+
+In nonvacuum electron beam welding, the vacuum is used only to create the electron beam. Therefore, the weldment size is not limited to the size of a vacuum  
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/04ff2bb888d51f1db52052decac010ed8e856127cb8e7d155ead5cd4cf7eebf6.jpg)  
+Figure 1.36—Deep, Narrow Weld Produced by Electron Beam Welding  
+
+chamber. However, penetration capability is much lower, and shielding gas is required. In addition, as a vacuum chamber fails to provide protection from the X-radiation emitted by the beam, more contamination occurs. Thus, operators must control the process remotely from outside the required radiation enclosure. Personnel must be protected from the ozone and other noxious gases produced during the nonvacuum process.  
+
+# Laser Beam Welding  
+
+Used extensively in the automotive industry, laser beam welding (LBW) effects the fusion welding of materials with the heat supplied by a laser beam that impinges on the joint. The laser beam is generated from a concentrated beam of coherent, monochromatic light in the infrared or ultraviolet frequency portion of the electromagnetic radiation spectrum. Therefore, the beam is invisible.  
+
+As illustrated in Figure 1.37, the beam is directed by mirrors and focused on the workpiece with reﬂective  
+
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5b7a35160d37fd32c438628e325e392ac156c777abb94a142b219af13036c48b.jpg)  
+Figure 1.37—Schematic Illustration of Laser Beam Welding  
+
+focusing optics devices or lenses. The minimally divergent raw beam is focused into a small spot, after which it diverges rapidly. Consequently, the proper distance between the lens and the focal point of the lens is crucial to obtaining the greatest power density on the base metal.  
+
+When comparing power input to power output, laser beam welding is actually rather inefﬁcient. Only   $8\,\%$   to  $15\%$   of the electrical power input results in output of photons, depending on the type of laser being used. The remainder of the power is consumed in the heating of the laser equipment. For this reason, laser beam welding fails to achieve the same penetration capabilities as electron beam welding.  
+
+Nevertheless, several lasers have good penetration characteristics. For example, the carbon dioxide gas laser, with rated outputs as high as 25 kilowatts   $(\mathrm{k}\mathrm{\bar{W}})$  , can produce keyhole welds in steel more than 1 in. (  $(25~\mathrm{mm})$   thick in one pass. A two-pass weld made from both sides also increases penetration capability. Though the yttrium aluminum garnet (YAG) solid-state lasers have power ratings below those recorded by their carbon dioxide counterparts, the YAG lasers are signiﬁcant in welding, piercing (see the section titled “Laser Cutting” below), and heating applications.  
+
+Laser beam welding can be performed with inert gas shielding. Alternatively, the beam can pass through glass and weld in an evacuated area. Unlike in the electron beam welding process, atmosphere does not impede the travel of the laser beam, and the process does not produce X-radiation. In addition, the beam can be directed by special mirrors to more than one workstation.  
+
+Extreme caution must be taken in the high-voltage area of the cabinet where laser equipment is housed. When work is being performed on the high-voltage section of the laser equipment, the manufacturer’s instructions and warnings should be carefully heeded. Operators must be careful to avoid scattered radiation in the vicinity of the beam’s impingement. A safety enclosure is mandatory for protection against scattered radiation. The appropriate protective eyewear and clothing for the given type of laser must be used.  
+Laser equipment is highly sophisticated and expensive, requiring knowledgeable personnel to install it, set parameters, and maintain the equipment. However, laser equipment does not often require highly skilled operators.  
+
+# Electro slag Welding  
+
+Electro slag welding (ESW) effects the joining of metals with molten slag that melts the ﬁller metal and the surfaces of the workpieces. This process uses neither shielding gas nor the application of pressure. Illustrated in Figure 1.38, electro slag welding is not an arc welding process. Initially, the process has an arc, but once the molten pool of metal and slag rise high enough to quench the arc, the process continues as an electric resistance process. An electrically conductive molten bath of slag, heated by means of resistance to the welding current, provides the energy for melting and fusing the base and ﬁller metals. The slag ﬂoating on top of the molten weld pool shields the pool from the atmosphere and melts the ﬁller metal and joint faces.  
+
+Although electro slag welding is similar to electrogas welding, these processes differ in their heating methods. Electro slag welding (ESW) effects joining with the heat generated by passing electrical current from the electrode to the workpiece through molten slag, whereas in electrogas welding, an arc is maintained to provide heating. In both of these processes, once the weld is initiated, welding must not cease until the weld is completed inasmuch as restarting after a mid-length stop produces large discontinuities. Because the weld travel speed is only approximately  $1/2$   in  $./\mathrm{min}$   to 1-1/2 in.  $/\mathrm{min}$   $\bar{(0.2~\mathrm{mm/s}}$   to   $0.6~\mathrm{mm/s})$  ), the weld metal and wide heat- affected zone exhibit a coarse grain structure with relatively low notch toughness. With their high heat input to the base metal, neither of these processes can be used on applications and alloys that do not tolerate coarse grain structures.  
+
+As can be observed in Figure 1.38, electro slag welding utilizes a non consumable tube to guide the electrode into the molten slag bath. Conventional electro slag equipment ranges from portable machines weighing about 75 lb   $(35~\mathrm{kg})$  ) to more massive units requiring cranes for  
+
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f8899f40c64f791ab974ee4a671bf3b04a1ad273058161d0866edf4d57a2a22a.jpg)  
+Figure 1.38—Schematic Representation of Electro slag Welding Source:  Adapted from Kielhorn, W. H., 1978,  Welding Guidelines with Aircraft Supplement , Englewood, Colorado: Jepperson Sanderson, Figure 5.51.  
+
+transport from one location to another. The lightweight units may be self-propelled while welding. The heavier units, which are generally supported on a vertical column, move on tracks or screws while welding.  
+
+The welding process can incorporate single or multiple electrodes. Electrode oscillation may be implemented to join sections from approximately   $1/2$   in. to 20 in. (  $13\,\mathrm{\mm}$   to   $500\,\mathrm{\mm})$  ) thick. The edges of two sections are joined in a single pass, with the weld progressing in a vertical direction. The molten slag and weld metal are contained in the joint by copper shoes or dams that may be water cooled. If a section thickness exceeds the capability of electro slag welding with a single electrode, multiple electrodes may be employed.  
+
+The welding current utilized in this process varies appreciably depending on the number of electrodes used and the joint thickness. Several thousand amperes are required to weld thick sections with multiple electrodes. Deposition rates for single electrode machines are typically 15 pounds per hour   $(\mathrm{lb/hr})$   to   $30\ \mathrm{lb/hr}$  (7 kilograms per hour   $(\mathrm{kg/hr})$   to   $13\ \mathrm{kg/hr}$  . This rate is multiplied by the number of electrodes used.  
+A variation of the electro slag welding process is the consumable guide method, described below. The basic equipment required for both electro slag welding and consumable guide electro slag welding is the same except for the design of a guide tube and the requirements for vertical travel. The basic equipment includes a power source, an electrode guide tube, a wire feeder, a welding head, and retaining shoes or dams. An oscillator may or may not be required.  
+
+Consumable Guide Electro slag Welding.  Con- sumable guide electro slag welding (ESW-CG), illustrated in Figure 1.39, is a process variation that utilizes a consumable guide tube. The guide tube must be as long as the length of the joint to be welded. The electrode feeds through the consumable guide tube, and the tube becomes shorter as it is consumed by the rising pool. The metal from which the consumable guide tube is made must be compatible with the metal being welded since it becomes part of the weld metal. The tube is secured at the top of the joint and extends to within about 1 in.   $(25\,\mathrm{\mm})$  ) of the bottom of the joint length. Removable shoes or dams that can be ﬁxed into place are used to retain the molten weld metal and slag.  
+
+A continuous wire electrode is fed through the tube, and an arc is struck. The molten metal and slag subsequently form a pool. As the slag pool rises, the end of the guide continuously melts and contributes to the weld metal. The system remains in equilibrium as long as the slag pool exists in sufﬁcient depth. Loose ﬂux can be added if the weld ﬂashes, indicating arcing. Donut-shaped insulators are spaced every 4 in. to 6 in. (  $.100~\mathrm{mm}$   to   $150~\mathrm{mm}$  ) to prevent the short circuiting of the consumable guide tube to the joint base metal. An alternative to the spaced insulators is the use of guide tubes with a ﬂux coating. This coating serves as insulation and supplies ﬂux in small quantities as the guide tube end is progressively melted.  
+
+The applications of consumable guide electro slag welding are similar to those used in conventional electroslag welding. However, the length of the joint to be welded is limited to the length of the consumable guide tube. The advantage of this process is that its setup and operation are simple, requiring less sophisticated equipment.  
+
+# Adhesive Bonding  
+
+Adhesive bonding (AB) is a joining process in which nonmetallic adhesive material is placed between the faying surfaces of the pieces to be joined, referred to as the  adherends , followed by a curing procedure to complete the bond. The bonding agent placed between the adherends consists of an adhesive in the form of a liquid, paste, or tacky solid. Although natural organic and inorganic adhesives are available, synthetic organic polymers are usually employed to join metal assemblies. The adhesive undergoes certain physical or chemical property changes, which produce a bonded joint with the desired properties.  
+
+For the surfaces of the adherends to wet properly, their surface-free energy must be greater than that of the adhesive. This is usually the case for metallic and polymeric adhesives. However, contaminants on the metal can lower the surface-free energy and prevent the formation of a good adhesive bond. Therefore, contaminants must be removed by washing the surfaces with a solvent before bonding. Other removal techniques include grinding, grit blasting, and the use of abrasive paper and pads.  
+
+An adhesive must have low viscosity during the bond-forming process in order to spread evenly over the surface of the adherend. If the viscosity is too high, the adhesive will not completely wet the surface and will entrap gases or liquids in the bond line. To minimize this tendency, pressure is applied during curing.  
+
+Adhesive bonding offers many advantages. The skills required to implement the process are usually minimal. This joining process has the capacity to join metal to nonmetallic materials such as plastics and creates no heat-affected zone. In addition, adhesives have low processing temperatures, good stress distribution, and excellent vibration and sound dampening. Providing a smooth surface appearance, they not only bond the adherends but also act as a sealant or coating to protect against chemicals and moisture. The process produces no depressions from localized electrode pressure such as those that may occur in welded joints, and it can ﬂoat out minor irregularities in the faying surfaces of the adherends.  
+
+Figure 1.40 presents a photograph of an adhesive bond used to join the thin aluminum skin of a satellite dish to the   ${}^{**}Z^{**}$   support members, maintaining the precise dish shape without any irregularities.  
+
+Limitations of the adhesive bonding process include low peel strength, curing time for the joints to develop full strength, and an operational temperature ceiling of  $600^{\circ}\mathrm{F}$     $(316^{\circ}\mathrm{C})$  . Adhesives may also degrade rapidly when highly stressed in a hot, humid environment.  
+
+Weld Bonding.  Weld bonding, a variation of adhesive bonding, involves the augmentation of an adhesively bonded joint by means of resistance spot welds. This procedure combines the beneﬁts of the fusion made by the spot welds with those of the adhesive bond. This combination of processes distributes stress from applied loads more evenly than spot welding alone. A leak-tight joint is produced.  
+
+Figure 1.41 illustrates weld bonding. It shows an outside corner of a small tank that has been formed and lapped with the end pieces. Excess adhesive is visible  
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/330ae77936afed4633db13fa27c13bf4caeac57613b7b315327b510434e5b698.jpg)  
+Figure 1.39—Schematic Representation of Consumable Guide Electro slag Welding  
+
+along the seams, and two depressions made by resistance spot welding are clearly visible on the long edge.  
+
+# BRAZING AND SOLDERING  
+
+Brazing (B) and soldering (S) share a number of features. Both are liquid-solid state processes as they involve molten ﬁller metal and solid base metal, which do not melt or mix. In both brazing and soldering, metallurgical bonds are produced by mutual diffusion rather than by fusion. Predominantly, the molten ﬁller alloy diffuses into the base metal. Some base metal is also dissolved, diffusing into the ﬁller metal. Although the fundamentals of bonding are the same for both processes, the temperature required to effect joining  
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d6388870ae37c3d47e8bacca35b9c6b5cf4c1ee2fc59d5b6c0ce3f05b2dbb80e.jpg)  
+
+determines whether the diffusion process is considered brazing or soldering. Brazing takes place when the metal is heated to above  $840^{\circ}\mathrm{F}$     $(450^{\circ}\mathrm{C})$  , while soldering occurs below this temperature.  
+
+Both brazing and soldering are implemented with joints designed for capillary action, as illustrated in Figure 1.42. A ﬁller metal with low viscosity is drawn into a small space (capillary)—typically 0.003 in.   $(0.1\ \mathrm{mm})$  ) wide—between faying surfaces. The drawing power of the capillary action is greater than gravitational force, so ﬁller metal can be drawn into the joint even in the overhead position.  
+
+For these processes to form successful bonds, the faying surfaces of the workpieces must be metallurgical ly will not occur. The metal must be cleaned so that its micro structure is exposed. Only when the microstructure of the metal is exposed can diffusion take place. Thus, brazing or soldering operations typically begin with mechanical cleaning followed by an application of ﬂux, which chemically reacts with impurities, rendering the surface metallurgical ly clean. The ﬂux also protects the cleaned surface through the heating cycle of the brazing or soldering operation.  
+
+The machining of parts for brazing and soldering must be precise enough to maintain the required ﬁtting tolerance for proper joint thickness for several reasons. First, joint strength decreases as the joint thickness (the distance between the two workpieces) increases. Second, for the sake of economics and good capillary action, the joint thickness should be less than 0.010 in.  $(0.3\ \mathrm{\mm})$  . In addition, some brazing and soldering alloys are costly and should not be used needlessly. Smaller joint thickness requires a smaller amount of a brazing or soldering alloy.  
+
+The applications of brazing and soldering are broad. Brazing is used for expensive and critical components such as jet engine parts as well as for comparatively inexpensive applications such as bicycle frames. Soldering is important in the plumbing industry for the joining of copper tubes and ﬁttings and in the electrical ﬁeld for the joining of wires and printed circuit connections.  
+# Brazing  
+
+The brazing processes achieve a bond between materials by heating them in the presence of a ﬁller metal that has a liquidus above   $840^{\circ}\mathrm{F}$     $(450^{\circ}\mathrm{C})$   and below the solidus of the base metal. The brazing ﬁller alloys must be molten at temperatures above   $840^{\circ}\mathrm{F}$     $(450^{\circ}\mathrm{C})$   to join the base metals, which are completely solid at the brazing temperature. The ﬁller metal ﬂows between the closely ﬁtting joint surfaces by means of capillary action.  
+
+The different brazing processes are referred to according to the method used to apply the heat. The most widely used processes are torch (TB), furnace
+
+ (FB), induction (IB), resistance (RB), dip (DB), infrared
+
+ (IRB), and diffusion brazing (DFB).  
+
+Torch Brazing.  Torch brazing (TB), illustrated in Figure 1.43, is accomplished by heating the parts to be brazed with one or more oxyfuel gas torches using various fuels. Manual torch brazing is normally performed using hand-held torches. Automated torch brazing machines use preplaced ﬂuxes and preplaced ﬁller metal in paste, wire, or shim form.  
+
+Manual and mechanized torch brazing processes are used to make lap joints in relatively thin sections ranging from 0.01 in. to 0.25 in. (  $0.25~\mathrm{mm}$   to   $6~\mathrm{mm}$  ). The joints can be brazed rapidly, but brazing speed decreases as the material thickness increases.  
+
+Furnace Brazing.  Furnace brazing (FB) involves the use of a furnace to heat ﬂuxed or cleaned parts with the ﬁller metal placed at the joints. This process can be performed in continuous or batch mode. Furnace selection depends on the rate of production and the size of the assembly to be processed. Continuous furnaces are most effective for high production rates and simple joint designs. Batch furnaces with protective atmospheres are commonly used to fabricate relatively small groups of brazements. They are also used to supply the special heating and cooling cycles required for distortion control or heat treatment. Both the batch and con- tinuous furnaces are easy to operate. In many cases, the operator need only load, unload, or apply the ﬁller metal.  
+
+Furnace brazing is particularly suited to the fabrication of brazements of complex design. For example, the critical application of a jet engine’s fuel nozzle illustrated in Figure 1.44 depends on 18 brazed joints along with seven welds that hold it together for consistent  
+
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/95db3d3a3a55249ef57ca32ce931f8d3d42ab838e9bb6bf7069ced47550109fb.jpg)  
+Figure 1.43—Torch Brazing  
+
+operation over thousands of hours of service. Furnace brazing may also include the use of a vacuum, as illustrated in Figure 1.45.  
+
+Induction Brazing.  Induction brazing (IB) involves heat obtained from resistance to a high-frequency current induced in the workpiece. The workpieces are not connected to the primary electrical circuit. Instead, they are placed in or near a high-frequency coil. The brazing ﬁller metal is usually preplaced. Flux is typically employed, except when using a protective or reducing atmosphere.  
+
+The design of the joint and the coil setup must ensure that the surfaces of all joint members reach brazing temperature simultaneously. Joints should be self-jigging rather than ﬁxtured. The metal thickness of components does not normally exceed 1/8 in.   $\mathbf{\zeta}.3\ \mathbf{mm},$  ).  
+
+Equipment setup, power supply and controls, and coil design are critical to producing a good quality brazement. When brazing various thicknesses, special attention must be given to coil design and the locations where metal thickness varies. Figure 1.46 illustrates six different ways in which an induction coil can be conﬁgured and positioned with respect to the workpieces that are to be heated for brazing.  
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2ad88286be04ffbdda7d93c259c8c313be7a7f88b50eea3ae83ad20e2e0f828f.jpg)  
+Photograph courtesy of Parker Hanniﬁn Company  
+
+# Figure 1.44—Jet Engine Fuel Nozzle Assembly with Brazed Joints  
+
+Production speeds are high as heating is accomplished in 4 to 10 seconds. Specially designed coil conﬁgurations allow a conveyor belt containing parts to pass through the coil. Induction brazing is commonly used when many parts must be made continuously over a long period. Nonetheless, small shops can handle short-run jobs very economically.  
+
+Resistance Brazing.  Largely used to braze lap joints, resistance brazing (RB) achieves coalescence using the heat produced by the joint’s resistance to electric current transferred to the workpieces by electrodes. The brazing ﬁller metal can be preplaced or face fed. The ﬂux must be partially conductive.  
+
+Parts to be brazed are held between two electrodes, which transmit force and current to the joint. Pressure is maintained on the joint until the ﬁller metal has solidiﬁed. The thickness of the base metal normally ranges from 0.005 in. to 0.50 in. (  $0.1\ \mathrm{mm}$   to   $12\;\mathrm{mm}$  ).  
+
+The cost of resistance brazing equipment depends upon the power required to heat the workpiece to brazing temperature. Cost also varies with the complexity of the electrical controls. Conventional resistance brazing equipment is easy to operate, though more sophisticated equipment may require experience for setup and control operations.  
+
+The brazing speed is very fast, especially when the power source and resistance tongs holding the electrode are adequate for the speciﬁc joint being made. Resistance brazing is most economical for special application joints that require the heat to be restricted to a very localized area without overheating the surrounding parts.  
+
+Figure 1.47 is a photograph of a contact assembly that required a wear-resistant silver-tungsten   $(\operatorname{Ag-W})$  contact to be resistance brazed to a formed copper   $(\mathrm{Cu})$  part. Figure 1.48 is a photo micro graph of the brazed joint. It shows the contact at the top, the silverphosphorus ﬁller at the interface, and the copper at the bottom.  
+
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9c1babec9661789cd7b2307ca2ddee11b6015b3a622d24668675d1bf903a55b4.jpg)  
+Figure 1.45—High-Temperature, High-Vacuum Brazing Furnace  
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/50d846bdee25cf5d998ead876c39d2938d6ddeb7180afb3ad5819d942b68b646.jpg)  
+Source:  American Welding Society (AWS) Committee on Brazing and Soldering, 1991,  Brazing Handbook , Miami: American Welding Society, Figure 11.11.  
+
+Dip Brazing.  Dip brazing (DB) is a process that accomplishes joining using the heat produced by a molten ﬂux or molten metal bath. When a molten ﬂux bath is used, the bath also provides protection against oxidation. The molten metal bath also provides the ﬁller metal used in the joint.  
+
+Both types of baths are heated in suitable vessels, containers, or crucibles to furnish and maintain the heat necessary for brazing, provide protection from oxidation, and provide ﬂuxing action if suitable salts are used. The molten ﬂux bath technique is used for most dip brazing applications, which range from thin sheet assemblies to heavier parts and very complex assemblies such as aluminum radiators and other heat exchangers. Careful cleaning of parts before and after brazing is essential.  
+
+The dip brazing process, illustrated schematically in Figure 1.49, offers the advantages of ease of operation, excellent production speed, and high efﬁciency. Since large parts may require that as many as 1000 joints be brazed at one time, dip brazing can be extremely cost effective. However, in the molten metal bath variation, because the entire assembly to be brazed is dipped into the molten bath, dip brazing is limited to small parts that do not lower the temperature in the crucible below that required for brazing.  
+
+Infrared Brazing.  Infrared brazing (IRB), illustrated in Figure 1.50, uses a high-intensity quartz lamp as the source of heat needed to produce coalescence. The process is particularly well suited for joining very thin materials, such as honeycomb panels for aircraft. It is usually not implemented with sheets thicker than 0.05 in.   $(1.3\;\mathrm{mm})$  ).  
+
+Assemblies to be brazed are supported in a position that allows the radiant energy of the quartz lamp to be focused on the joint. The assembly and the lamps can be placed in evacuated or controlled atmosphere retorts. The cost of brazing relatively thick joints is comparable to furnace brazing in terms of cycle time, atmosphere, and equipment.  
+
+Diffusion Brazing.  Unlike the brazing processes discussed previously, diffusion brazing (DFB) is not  
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f9b19194c7e1cc320c1ed89ae69e4095c66317096d6548553334f503171b1153.jpg)  
+Photograph courtesy of LeTourneau University  
+
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0504492675dc0d98fa1fb39a044dd4d3a4f80bd901f168b564235b6d2315695f.jpg)  
+Photograph courtesy of LeTourneau University  
+
+deﬁned by its heat source, which is usually a furnace, but by the diffusion mechanism involved during heating and the application of pressure. In this process, a joint is formed between dissimilar metals by maintaining the brazement at a suitable temperature for a sufﬁcient time for mutual diffusion between the base metal and ﬁller metal to occur. Heating usually occurs in a furnace. While the brazement is held at a constant temperature, the chemical composition of the joint is changed by diffusion. A eutectic composition develops, along with  
+
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bd6501c355172d5d875da13b34fc503020a93df943b2b9005dcaeb87cb85804f.jpg)  
+Figure 1.49—Schematic Illustration of Flux Bath Dip Brazing  
+
+the accompanying low melting temperature. As a result, the joint area temporarily becomes molten. Continued diffusion causes a departure from the eutectic composition. Hence, the melting temperature increases, and the molten metal becomes solid again, forming the brazement.  
+
+The equipment used for diffusion brazing is similar to that used for diffusion welding. The joint produced by diffusion brazing has a composition that is considerably different from either the ﬁller metal or the base metal. Although the brazed joint area is indiscernible, it is stronger than the bonds produced by the other brazing processes. Joints produced with this process have a remelt temperature approaching that of the base metal.  
+
+Figure 1.51 presents a photograph of a stamped metal sheet that contains the initial segment of nine jet fuel nozzle swirlers. The sheets are coated by electro less nickel plating, then stacked, weighted, and placed into a furnace. As diffusion occurs at the elevated temperature, transient melting occurs at the sheet interfaces, the weight on the sheets facilitates the bond. This procedure fulﬁlls the liquid-solid phase joining process which by deﬁnition is brazing. The nine swirlers are then removed from the diffusion brazed assemblies and installed in fuel nozzles. The 1 in.   $.25~\mathrm{mm})$   scale indicates that each swirler is less than 0.3 in. (  $.8\,\mathrm{\mm})$   in diameter.  
+
+Diffusion brazing offers several advantages. As this process is not sensitive to joint thickness, relatively heavy parts can be brazed. It is applied to base metals ranging from thin foil to sections 1 in. to 2 in. (  $25~\mathrm{mm}$  to   $50\,\mathrm{\mm})$  ) thick. Moreover, many brazements that are difﬁcult to make with other processes can be produced  
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/dac5ed60829e4e5d32c38fb2d54f468dda91a2b60b93c1e6835e6da97a75afdf.jpg)  
+Source:  Adapted from American Welding Society (AWS) Committee on Brazing and Soldering, 1991,  Brazing Handbook , Miami: American Welding Society, Figure 15.1. Figure 1.50—Infrared Brazing Apparatus  
+
+with this method. The parts are usually ﬁxtured mechanically or tack-welded together. Butt and lap joints with good mechanical properties are created. Although diffusion brazing requires a relatively long time (30 minutes to 24 hours) to complete, a number of assemblies can be brazed simultaneously.  
+
+# Soldering  
+
+Soldering (S) involves heating a joint to a suitable temperature and using a ﬁller metal (solder) that is completely molten below   $840^{\circ}\mathrm{F}$     $(450^{\circ}\mathrm{C})$  . The process is used on base metals that are completely solid at the sol  
+
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7337e712a0af481ede8f6e1a69cd627442ef3900ae4a1b6a16458db125f6ea64.jpg)  
+Figure 1.51—Diffusion-Bonded Fuel Nozzle Swirlers  
+
+dering temperature. The solder is distributed between closely ﬁtted joint surfaces by capillary action. Heat is required to raise the joint to a suitable temperature to melt the solder and promote the action of the soldering ﬂux that has been pre positioned on the surface of the metal. This allows the molten solder to wet and ﬂow into the joint. Flux residues may be removed when the joint has cooled.  
+
+Soldering is used to join a wide range of metal thicknesses, from very thin ﬁlms to relatively thick components such as bus bars and pipe. Successful soldering requires the shaping of parts to ﬁt closely together. The surfaces to be joined must also be cleaned.  
+
+The variations of the soldering processes are deﬁned by the source or method of heating used in each. Soldering processes widely used in industry are dip (DS), iron (INS), resistance (RS), torch (TS), induction (IS), furnace (FS) infrared (IRS), ultrasonic (USS), wave (WS), and cascade soldering (CS). Most of these are similar in application to the brazing methods described above. Dip, wave, and cascade soldering are illustrated in Figure 1.52.  
+
+Automated soldering equipment produces the highest quality joints at a low cost. Wave and cascade soldering are automated processes. They are often used by the electronic industry to produce many high-quality soldered joints simultaneously. For example, circuit boards are commonly soldered using the wave or  
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0b0caa2217be4687f789fcb472067467f8050d25b3ec0280efdd9a2132b2ab49.jpg)  
+Figure 1.52—Schematic Illustration of (A) Dip Soldering; (B) Wave Soldering; and (C) Cascade Soldering  
+
+cascade methods. On the other hand, manual soldering with a traditional copper-tipped soldering iron is a relatively slow process requiring a certain degree of skill, especially when soldering crucial electronic equipment or complex or critical components. It is economical when production rates are low. Manual dip soldering, which is much faster than manual soldering, is useful for moderate production requirements. A high degree of operator skill is not required for automated soldering such as wave or cascade soldering.  
+
+# Braze Welding  
+
+Braze welding (WB) is a joining process that accomplishes coalescence using a ﬁller metal with a liquidus above   $840^{\circ}\mathrm{F}$     $(450^{\circ}\mathrm{C})$   and below the solidus of the metal. Braze welding is different from brazing in that the ﬁller metal is not distributed throughout the joint by means of capillary action.  
+
+Normally performed with an oxyfuel gas torch, braze welding is carried out at a lower temperature than welding since the base metal is heated only enough to melt the ﬁller metal. For example, a brazing ﬁller metal typically used to repair cast iron is completely molten at   $1650^{\circ}\mathrm{F}$     $(899^{\circ}\mathrm{C})$  , which is about   $\bar{1000^{\circ}\mathrm{F}}$   $(538^{\circ}\mathrm{C})$   below the melting temperature of cast iron.  
+
+Braze welding is typically used to repair cracked or broken gray iron castings or to salvage other broken items. A groove is usually prepared by grinding out the defect, or a ﬁllet joint may be used to add an additional reinforcing member to the salvage job. If a single pass is not sufﬁcient to complete the repair, multiple passes are used. In this case, each successive pass welds onto the previous passes, but the bond to the base metal is created by diffusion since this metal remains solid throughout the process. The ﬁller metal used for braze welding is more viscous than that employed for brazing. This higher viscosity permits the metal to build up, forming a weld-type deposit, rather than ﬂow as would be required to ﬁll the capillary-type joint used for brazing.  
+
+# CUTTING PROCESSES  
+
+The selection of a cutting method has important implications. As with choosing the best joining method, potential cutting methods must be investigated and evaluated with respect to the priorities that are established for the application. The objective is to choose the best method based on a consideration of economy, process capability, and the effects on the material to be cut.  
+
+Although thermal methods are usually the most economical and offer the greatest productivity, some materials are adversely affected by the signiﬁcant heat produced by these methods. Nonthermal methods are usually slower, but they can be used with precision on a wide variety of metals and nonmetals.  
+# THERMAL CUTTING  
+
+The thermal cutting (TC) processes accomplish the severing or removal of metal by means of localized melting, burning, or vaporizing of the workpiece. Though all utilize heat to accomplish the cut, each process has a different principle of operation. The various processes also have different applications with respect to materials and thicknesses.  
+
+The thermal cutting processes most widely used in industry are oxyfuel gas (OFC), plasma arc (PAC), air carbon arc (CAC-A), and laser beam cutting (LBC). Table 1.2 presents an overview of their capabilities.  
+
+# Oxyfuel Gas Cutting  
+
+The oxyfuel gas cutting (OFC) processes utilize the heat produced by an oxyfuel ﬂame to accomplish cutting. In this process, the metal to be cut is heated to its kindling temperature (the temperature at which steel rapidly oxidizes) using a fuel gas-oxygen mixture (the most widely used fuels are acetylene, natural gas, propane, and other special formulations). At this point, a high velocity stream of oxygen is introduced, and rapid oxidation (burning) takes place. The reaction quickly penetrates the thickness of the steel workpiece, with some of the molten metal being blown out underneath. Illustrated in Figure 1.53, these processes are used extensively in the severing or gouging of carbon steel.  
+
+To perform a cut with oxyfuel gas cutting, the metal must react with oxygen to produce an oxide. The oxide must have a melting temperature that is lower than that  
+
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fc0ba7e59266701943cbc802410768f0890a8dfe6b15eb14eea49c5894323e54.jpg)  
+\*This table should be regarded as only a very general guide to process applicability. For processes to be used with speciﬁc alloys, the manufacturer or other appropriate sources should be consulted.  ${}^{\dag}0\mathsf{F}0=0$  xyfuel gas cutting;  ${\mathsf{P A C}}=$   plasma arc cutting;  $\mathsf{C A C}\mathsf{-A}=$   air carbon arc cutting; and  $\mathsf{L B C}=$  laser beam cutting. ‡ Process applicable with special techniques. All other processes (x) are commercially applied.  
+
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a1732234556a0d84c11a1afab52cbdc86d7a10f3c6836fb03a62876b61daced1.jpg)  
+Source:  Adapted from Kielhorn, W. H., 1978,  Welding Guidelines with Aircraft Supplement , Englewood, Colorado: Jepperson Sanderson, Figure 5.82.  
+
+of the metal being cut. If an oxide with a very high melting temperature, termed a  refractory oxide , develops, it acts as a protection from further oxidation. This protection barrier renders the process ineffective. Refractory oxides develop when performing oxyfuel gas cutting with materials such as stainless steels.  
+
+The cutting tips used are designed to provide a ring of oxyfuel gas ﬂames. These ﬂames preheat the metal to its kindling temperature. The cutting tips are also designed to produce a small-diameter, high-velocity stream of oxygen to oxidize and remove metal, producing a narrow cut or kerf in the steel. The torch is moved at a speed that maintains an acceptable cut quality. The quality and speed of the cut depend on the design and size of the torch tip, the distance from the steel surface, the travel speed, oxygen, and the fuel gas pressures and resulting ﬂow rates. All these variables must be regulated for the particular material type and thickness being cut.  
+The travel speed employed in oxyfuel gas cutting depends upon the type and thickness of material and the characteristics of the oxyfuel gas ﬂame. For relatively thin steel of less than   $1/2$   in.   $(12~\mathrm{mm})$  , the travel speed is limited by the speed at which the kindling temperature can be reached and maintained in front of the cut. Thus, for thinner metals, the oxyfuel gas mixture that yields the hottest and most concentrated ﬂame— oxyacetylene—is ideal. When cutting thick steel, the speed of travel is limited by the speed at which the oxidation can penetrate through the steel. For thicker metals, a more diffused ﬂame with a lower temperature is ideal. This kind of ﬂame prevents the top edge of thicker metals from becoming overheated.  
+
+Cutting torches and tips are designed for speciﬁc fuel gases or groups of fuel gases. Injector designs are used for fuel gas pressures of less than 2 pounds per square inch   $\mathrm{(lb/in.}^{2}\mathrm{)}$   (14 kilopascal   $[\mathrm{k}\mathrm{Pa}])$  ), whereas positive pressure designs are utilized for fuel gas pressures of more than   $2\ \mathrm{\breve{l}b/i n}$  .    $(14~\mathrm{kPa})$  . Some cutting tips are designated for use with standard speed and standard pressure; others are high-speed, high-pressure tips.  
+
+Oxyfuel gas cutting is often applied in the cutting of mild steel plates. Theoretically, no limit exists with respect to the maximum thickness that can be cut with this process. High-quality industrial cuts have been made in metal more than 2 ft   $(600\;\mathrm{mm})$  ) thick. However, a metal thickness of less than   $1/4$   in.   $.6\:\mathrm{mm})$   is often distorted because of the localized heating.  
+
+Alloyed steels are more difﬁcult to sever. The speed, quality, and even the feasibility of cuts in alloyed steel depend on the alloy type and amount present. Stainless steels cannot be cut with the standard oxyfuel cutting torch because they develop refractory oxides during the process. To sever stainless steel using oxyfuel gas cutting, ﬂux can be added to neutralize the protective refractory oxides or iron can be added to reduce the chromium content. At greater than   $11\%$  , chromium is the main element alloyed with iron to produce the corrosion resistance characteristic of stainless steels. When stainless steel is cut using the oxyfuel gas method, refractory oxides quickly form, preventing rapid oxidation from continuing. The chromium content can be reduced by injecting iron powder into the cutting stream or placing a mild steel waster plate on the surface of the metal to be cut.  
+
+Modi cations of oxyfuel gas cutting equipment are used for scarﬁng metal, gouging U-grooves, removing defective welds, and beveling plate edges in preparation for welding. Equipment has also been developed to allow the cutting of sheets or thin plates of steel stacked approximately 2 in.   $(50~\mathrm{mm})$  ) high.  
+
+Manual oxyfuel gas cutting operations are often selected for implementation because personnel can be trained to operate the equipment in a short time. However, considerable skill is necessary to produce highquality manual cuts and bevels suitable for welding. The skill requirements for single or multitorch mechanized equipment are dependent on the application, the edge con gu ration desired, and the technical capability of the equipment. Equipment controlled by computer or electronic tracing can shape-cut many parts at once, depending on the number of torches on the machine.  
+
+# Plasma Arc Cutting  
+
+Plasma arc cutting (PAC), illustrated in Figure 1.54, is accomplished with an extremely hot, high-velocity plasma jet formed by an arc and the ionized gas ﬂowing from a constricted oriﬁce. The arc-gas plasma energy is concentrated on a small area of the workpiece, where the arc-gas plasma melts the metal and forces the molten metal through the kerf and out beneath the metal. Light- to medium-duty plasma arc cutting systems use compressed air as the plasma gas. Heavy-duty systems typically use nitrogen or an argon-hydrogen mixture for the plasma gas, and carbon dioxide or an inert gas as the secondary or shielding gas.  
+
+Plasma arc cutting can incorporate the use of water in several ways. Water can be injected into the plasma oriﬁce to supplement the super heat. It can also be used as a shroud around the arc to minimize noise, pollution, and arc brilliance. The metal can also be submerged in water contained in a cutting table tank to minimize the heat-affected zone and distortion.  
+
+A versatile process, plasma arc cutting is capable of cutting all metals, both ferrous and nonferrous. Mild steel can be severed two to three times faster with this process than with oxyfuel gas cutting. However,  
+
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/570d036c306cc0078838c3449b57b444fd766e00e720b527a1dc408bef91c5d4.jpg)  
+Figure 1.54—Schematic Representation of Plasma Arc Cutting  
+because more metal is removed from the top surface than from the bottom, the kerfs are wider and somewhat tapered. Special nozzles are designed to cut a square edge on one side of the kerf, leaving the entire taper on the other side.  
+
+Plasma arc cutting torches are available for manual cutting. Like oxyfuel gas cutting, manual plasma arc cutting is easy to learn, but difﬁcult to perfect, especially when making cuts suitable for welding. Compressed-air plasma arc cutting machines readily make clean cuts on thin-gauge materials, such as those used for vehicle bodies. Mechanized equipment is extensively used for industrial applications, cutting metal up to about 3 in.  $(75\ \mathrm{mm})$  ) thick. Plasma arc is also a viable process for gouging.  
+
+# Air Carbon Arc Cutting  
+
+Air carbon arc cutting (CAC-A) uses an arc to melt the metal, which is subsequently blown away by a highvelocity jet of compressed air. This process is applicable to most metals, as indicated in Table 1.2.  
+
+The electrodes used in air carbon arc cutting operations are made from carbon. They are coated with copper to enhance their current-carrying capacity. Standard constant-current welding power sources of sufﬁcient capacity for the electrode size are used to provide the current. The electrodes used to perform the air carbon arc gouging of U-grooves are normally larger than those used for shielded metal arc welding; thus, the current demands are greater. Air is normally supplied by conventional shop air compressors, which can maintain ﬂow rates of 20 cubic feet per minute   $(\mathrm{ft}^{3}/\mathrm{min})$   to   $30~\mathrm{ft^{3}/m i n}$  (600 liters per minute   $\mathrm{[L/min]}$   to  $900~\mathrm{L/min})$  ) at  $80\,\mathrm{lb/in}$  .
+
+  $(550\;\mathrm{kPa})$  .  
+
+Manual air carbon arc cutting electrode holders, like the one shown in Figure 1.55, resemble the holders used in shielded metal arc welding. However, air carbon arc cutting holders are equipped with two to three oriﬁces to permit the air jet to ﬂow through and blow away the molten metal produced by the arc. To ensure that the air jet can effectively blow away molten metal, the copper-coated carbon electrode should be held 3 in. to 4 in. (  $76~\mathrm{mm}$   to   $100\ \mathrm{mm})$  ) away from the arc. As the electrode sublimates, becoming shorter, it can be repositioned as desired.  
+
+In gouging operations, the depth and contour of the groove are controlled by the electrode angle, travel speed, and current. Grooves up to   $5/8$   in.   $(16~\mathrm{mm})$  ) deep can be made in a single pass. In severing operations, the electrode is held at a steeper angle and directed at a point that will permit the tip of the electrode to pierce the metal being severed.  
+
+Semiautomatic or fully automatic air carbon arc cutting equipment has the capacity to cut U-grooves of virtually uniform geometry. In manual work, the geom  
+
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/00b86d2247b2ad8c14d0eec9a647a90f9e324646f03401fcaeb00beff055a6d2.jpg)  
+Figure 1.55—Manual Air Carbon Arc Electrode Holder with Electrode  
+
+etry of U-grooves is dependent on the skill possessed by the cutting operator. Manual techniques are more suitable than automatic methods for removing weld defects or severing excess metal from castings. Manual air carbon arc cutting operators must be trained to avoid shorting the electrode, which can deposit carbon particles in the metal. These particles can create very hard spots in the metal, leading to cracks or machining d if cul ties.  
+
+# Laser Beam Cutting and Drilling  
+
+Laser beam cutting (LBC) is a thermal cutting process that accomplishes a cut by locally melting and vaporizing material with the heat produced by a laser beam. The process is used with or without an assisting gas, which helps remove molten or vaporized material. Figure 1.56 illustrates the laser beam cutting process. The equipment used to produce the laser beams is described in the section on laser beam welding.  
+
+Among the applications of the laser beam process, cutting is the most common, enjoying an excellent growth rate worldwide. Internationally, laser cutting and the related processes of drilling, trimming, and scribing account for more than   $50\%$   of industrial laser installations. A high-power carbon dioxide laser can cut steel up to 1 in.   $(25~\mathrm{mm})$   thick. However, good quality cuts are typically made on metal thinner than   $3/8\,\mathrm{\in}$  .
+
+  $(9.5\;\mathrm{mm})$  ). Neodymium-doped yttrium aluminum garnet
+
+ (Nd:YAG) lasers are also used. Depending on the material, a jet of reactive gas such as oxygen can be applied coaxially with the beam, improving process speed and cut edge quality.  
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7dc90cc36a5b795b850008f3edd412d7188203f5730a5160c639de0b9a81a4d6.jpg)  
+Figure 1.56—Schematic Illustration of Laser Beam Cutting  
+
+Laser beam cutting offers the advantages of highspeed production, narrow kerfs, low heat input, and minimal workpiece distortion. An easily automated process, it can be used to cut most materials. Finishing operations are usually not required. It also is advantageous for short production runs. Noise, vibration, and fume levels are quite low. Relative movement between the beam and the workpiece can easily be programmed using computer numerical control (CNC) workstations. High precision and good edge quality are common even in three-dimensional laser beam cutting.  
+
+Laser beam drilling is closely related to cutting. Drilling involves higher beam densities and shorter dwell times than laser cutting. The high-intensity pulsed output from the solid-state lasers with shorter wavelengths (e.g., the Nd:YAG lasers) is more suitable for drilling metals. Carbon dioxide lasers are typically used to drill nonmetallic materials such as ceramics, composites, plastics, and rubber. Laser drilling is cost effective for producing holes less than 1 in.   $(25\ \mathrm{mm})$  deep and up to  $0.060$   in.   $(1.5~\mathrm{mm})$  ) in diameter. In this range, laser beam drilling is a cost-effective alternative to mechanical, electrochemical, and electrical discharge machining.  
+
+Laser beam material processing equipment is expensive, however. The equipment also requires skilled operators with a good knowledge of this sophisticated equipment and laser-material interaction. With the increased use of the process, the price of laser cutting systems may decrease somewhat in the future.  
+
+# WATER JET CUTTING  
+
+Water jet cutting uses a high-velocity water jet to cut a variety of materials, including metals and nonmetallic materials. The water jet is formed by forcing water through a 0.004 in. to 0.024 in.   $0.1\ \mathrm{mm}$   to   $0.6~\mathrm{mm}$  ) oriﬁce in a manufactured sapphire under a high pressure of   $30\;\mathrm{\ksi}$   to 60 ksi   $\mathrm{\bar{20}}7\ \mathrm{MPa}$   to   $41\bar{4}\;\;\mathrm{\bar{MP}a)}$  . Although water jet cutting is not a thermal cutting process, it is somewhat related inasmuch as a kerf is produced by concentrated water jet erosion.  
+
+The principles of the various thermal cutting processes previously described in this chapter differ in the way energy is utilized to sever materials. In water jet cutting, water—sometimes with an abrasive additive— is used to erode the material to effect the cut, thus making a kerf in the same manner as the thermal methods. As a machine tool cutting device is not employed in water jet cutting, this process is more closely related to the thermal cutting techniques than to machine tool methods.  
+
+Figure 1.57 illustrates a stack of dissimilar materials—including carbon steel, brass, copper, aluminum, and stainless steel—being cut. An abrasive jet is particularly effective for cutting laminates of different materials, including sandwiched sections of metals and nonmetals. As the abrasive jet is capable of penetrating most materials, pre drilling usually is not required. Table 1.3 lists the cutting procedure variables for nine nonmetallic materials.  
+
+The two types of water jet cutting are simple water jet cutting and abrasive water jet cutting. Simple water jet cutting uses only water, while abrasive water jet cutting uses water mixed with an abrasive grit. In simple water jet cutting, tapered cuts are typically encountered because the water has a tendency to spread as it leaves the oriﬁce. Kerf tapering may be reduced by adding long-chain polymers such as polyethylene oxide to the water or by decreasing travel speed. With abrasive water jet cutting, tapered kerfs are usually not encountered unless the cutting speed is too fast, the workpiece is too thick, or an excessively worn nozzle has been used.  
+
+The oriﬁce nozzle, normally the only part that wears, requires replacement every 2 to 4 hours of constant operation. Cuts are usually clean, and minimal deburring, if any, is needed on many applications. Minimal lateral forces are generated, simplifying ﬁxturing. The process is readily adaptable to robotic control.  
+
+Water jet cutting has several limitations. It is capable of only relatively low cutting speeds. In addition, the pumps and pressure chamber required to propel and direct the water jet are expensive, so initial capital investment is high. A device must also be provided to collect the discharge from the cutting stream, and the discharge requires proper disposal. Materials cut must be softer than the abrasive used. In addition, bending on very thin ductile metals may result from the force of the abrasive jet, producing burred edges.  
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/75df42b079092af92a22656844b2719ae39c116033fe8a2b20e3d10658817218.jpg)  
+Figure 1.57—Water Jet Cutting of Dissimilar Materials  
+
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/420414ecab05ba65129b674bd5dd666e3866a2360a4dd71c6f6c8b97d564dd81.jpg)  
+
+# THERMAL SPRAYING  
+
+The thermal spraying (THSP) processes deposit metallic or nonmetallic surfacing materials in a molten or semimolten state on a substrate to create a thermal spray deposit. In these processes, metallic or nonmetallic material is heated and then propelled from a gun nozzle by a gas jet. The material is propelled in atomized form onto the substrate. Initially, the surfacing material may be in the form of wire, rod, or powder. Methods of heating the surfacing material to the plastic or molten state include an oxyfuel gas ﬂame, as illustrated in Figure 1.58, an electric arc, a plasma arc, or an explosive gas mixture. Most metals, cermets (ceramicmetal mixtures), oxides, and hard metallic compounds can be deposited using one or more process variations. Thermal spraying can also be employed to produce freestanding objects using a disposable substrate.  
+
+Compressed air, which causes oxides to form on each particle (oxidation), is used with some thermal spraying methods to propel the molten particles across a distance. Even when compressed air is not used, oxidation occurs merely from the ambient air present between the nozzle and substrate. When molten particles strike a substrate, they ﬂatten and form thin platelets that conform to the surface. These platelets rapidly solidify and cool. Successive layers are then built up to create the desired thickness.  
+
+The bond between the spray deposit and the substrate, though metallurgical to some extent, is primarily mechanical. The degree of strength of each bond depends upon the thermal spraying method and procedure used. In some cases, a postspray fusion heating operation on the spray deposit enhances particle coalescence and bond strength, causing a diffusion or chemical reaction between the sprayed deposit and the substrate. The properties of the deposit depend upon its density, the cohesion between the deposited particles, and adhesion to the substrate.  
+
+Thermal spraying is widely used in surfacing applications to attain or restore desired dimensions; to improve resistance to abrasion, wear, corrosion, oxidation, or a combination of these; and to provide speciﬁc electrical or thermal properties. Thermally sprayed deposits are frequently applied to new machine elements to provide surfaces with desired characteristics for the application.  
+
+A variety of different thermal spraying methods, including ﬂame (FLSP), arc (ASP), plasma (PSP), and detonation ﬂame spraying, are categorized according to the method used to heat the surfacing material. The combustion and electrical methods both involve the heating of the spray material to the molten or plastic state and then the propelling of the atomized material onto the substrate. Most thermal spraying applications utilize mechanized systems.  
+
+# FLAME SPRAYING  
+
+In ﬂame spraying (FLSP), illustrated schematically in Figure 1.58, the surfacing material is continuously fed into and melted by an oxyfuel gas ﬂame. The material may initially be in the form of wire, rod, or powder. Molten particles are projected onto a substrate by an air jet or gas combustion. Figure 1.59 illustrates oxyfuel  
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/394d789dbea06c843de6cda8bae567542d7ebfbf18660e174bbb823de88d1bbb.jpg)  
+Figure 1.58—Schematic of Oxyfuel Gas Flame Spraying  
+
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d62011ff44c00a68017b6a602ea7effeb6ec7a94c91096f169a0c22170d63400.jpg)  
+
+gas ﬂame spraying with a hyper velocity powder ﬂame spray torch.  
+
+# PLASMA ARC SPRAYING  
+
+In plasma arc spraying (PSP), the heat required to melt the surfacing material is provided by a nontransferred plasma arc. The arc is maintained between an electrode that is usually made of tungsten and a constricting nozzle. An inert or reducing gas, under pressure, enters the annular space around the electrode along with the surfacing powder. The non transferred arc on the electrode heats the powder and gas to a temperature above  $^{15,000^{\circ}\mathrm{F}}$     $(830\bar{0}^{\circ}\mathrm{C})$  ). The hot plasma gas and heated powder particles pass through the constricted oriﬁce and are propelled from the nozzle at a very high velocity. The particles impact the substrate to create a denser deposit and stronger bond than is possible with the oxyfuel gas or arc thermal spraying method.  
+
+# ARC SPRAYING  
+
+Arc spraying (ASP) utilizes an arc formed between two continuously fed electrode wires. This arc melts the metal electrode wire. Then, compressed air propels the molten particles to the substrate. Capable of deposition rates exceeding   $100\ \mathrm{lb/hr}$     $(45~\mathrm{kg/hr})$  ), this is the fastest thermal spraying method available. A schematic of wire arc spray is shown in Figure 1.60.  
+
+# DETONATION FLAME SPRAYING  
+
+Shown in Figure 1.61, the detonation ﬂame spraying (DFSP) method operates on a principle that is signiﬁ- cantly different from the other three methods. In this process, rapid, successive detonations of an explosive mixture of oxygen and acetylene occur in a gun chamber. The detonation repeatedly heats charges of powder and projects the molten particles onto a substrate. The particles exit the gun at a much higher velocity than  
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e8f30e705a29337c86c8aa45d0492693b3398634708d27e3cfd4886fa40cc727.jpg)  
+Figure 1.60—Schematic Illustration of Arc Spraying  
+
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/51400352f8accb0da5b98fb59ce57fc7747eadb89720bb43c2b238a08f47e84f.jpg)  
+Figure 1.61—Schematic of Oxyfuel Gas Gun for Detonation Flame Spraying  
+
+that utilized in the other methods, producing a dense deposit that has a strong bond with the substrate.  
+
+# CONCLUSION  
+
+This chapter describes the most important welding, cutting, and allied processes in use in industry. Before making ﬁnal decisions regarding process selection for an application, an objective, in-depth study and a thorough investigation should be made. Process selection has major implications with respect to manufacturing costs. Inasmuch as equipment costs can vary from a few hundred to millions of dollars, the cost of equipment versus production volume must be carefully evaluated. The right decisions regarding equipment selection can result in great rewards, including remaining competitive in the global market.  
+
+# BIBLIOGRAPHY 11  
+
+American National Standards Institute (ANSI) Committee Z49 on Safety in Welding and Cutting. 1999.  
+Safety in welding, cutting, and allied processes.  ANSI Z49.1:1999. Miami: American Welding Society. American National Standards Institute (ANSI). 1993. American National Standard for safe use of lasers. ANSI Z136.1-1993. Orlando, Florida: Laser Insti- tute of America (LIA). American Welding Society (AWS) Committee on Filler Metals. 1998.  Spec i cation for tungsten and tung- sten alloy electrodes for arc welding and cutting. AWS A5.12/A5.12M:1998. Miami: American Welding Society. American Welding Society (AWS) Committee on Filler Metals. 1991.  Spec i cation for carbon steel electrodes for shielded metal arc welding.  ANSI/AWS A5.1-91. Miami: American Welding Society. American Welding Society (AWS) Committee on Brazing and Soldering. 1991.  Brazing handbook . Miami: American Welding Society. ESAB. 1990.  Connections . Hanover, Pennsylvania: ESAB Welding and Cutting Products. Kielhorn, W. H. 1978.  Welding guidelines with aircraft supplement.  Englewood, Colorado: Jepperson Sanderson. Linnert, G. E. 1994.  Welding metallurgy . 4th ed. Miami: American Welding Society. O’Brien, R. L., ed. 1991.  Welding processes.  Vol. 2 of Welding handbook . 8th ed. Miami: American Welding Society. Oates, W. R., and A. M. Saitta, eds. 1998.  Materials and applications—Part 2.  Vol. 4 of  Welding handbook,  8th ed. Miami: American Welding Society. Oates, W. R., ed. 1996.  Materials and applications— Part 1.  Vol. 3 of  Welding handbook,  8th ed. Miami: American Welding Society. Powers, D. E., and G. R. LaFlamme. 1988. EBW vs. LBW—A comparative look at the cost and performance traits of both processes.  Welding Journal  67(3): 25–31.  
+
+# SUPPLEMENTARY  READING LIST  
+
+Amata, M., and S. R. Fiore. 1996. Choosing the proper self-shielded FCAW wire.  Welding Journal  75(6): 33–39. American Welding Society (AWS) Committee on Deﬁ- nitions. 2001.  Standard welding terms and deﬁnitions.  AWS A3.0:2001. Miami: American Welding Society. American Welding Society (AWS). 1994.  The everyday pocket handbook for arc welding steel . Miami: American Welding Society. American Welding Society (AWS) Committee on Oxyfuel Gas Welding and Cutting. 1990.  Operator’s  
+
+manual for oxyfuel gas cutting.  ANSI/AWS C4.2-90. Miami: American Welding Society. American Welding Society (AWS) Committee on Arc Welding and Cutting. 1980.  Recommended practices for gas tungsten arc welding . ANSI/AWS C5.5-80R (Reafﬁrmed 1989). Miami: American Welding Society. American Welding Society (AWS). 1983.  Electro slag welding and surfacing . 2 vols. Miami: American Welding Society. American Welding Society (AWS) Committee on Arc Welding. 1983.  Recommended practices for plasma arc cutting . AWS C5.2-83R (Reafﬁrmed 1994). Miami: American Welding Society. American Welding Society (AWS). 1985.  Thermal spraying: Practice, theory, and application . Miami: American Welding Society. American Welding Society (AWS) .  1978.  Soldering manual.  Miami: American Welding Society. American Welding Society (AWS) Committee on Arc Welding. 1973.  Recommended practices for plasma arc welding.  AWS C5.1-73. Miami: American Welding Society. Bastian, B. J., ed. 1998.  The professional’s advisor on resistance welding . Miami: American Welding Society. Bongio, E. 1978.  Principles of industrial welding . Cleveland: The Lincoln Electric Company. Cary, H. B. 1997.  Modern welding technology . 4th ed. Englewood Cliffs, New Jersey: Prentice Hall. Cary, H. B. 1995.  Arc welding automation . New York: Marcel Dekker. Compressed Gas Association (CGA) 2000.  Safe handling of compressed gases in cylinders . P-1. Arlington, Virginia: Compressed Gas Association. Craig, E. 1996.  A management and engineers guide to MIG  welding  quality-costs-training.  Miami: American Welding Society. Dawes, C. T. 1992.  Laser welding: A practical guide. Cambridge: Abington Publishing. Gibson, S. 1997.  Advanced welding . New York: Macmillan Press.The Lincoln Electric Company. 1994.  Procedure handbook of arc welding . 13th ed. Cleveland: The Lincoln Electric Company. Manz, A. F., and E. G. Hornberger. 1998.  Welding processes and practices . New York: John Wiley and Sons. Paton, B. E. 1962.  Electro slag welding . 2nd ed. Miami: American Welding Society. Vianco, P. T. 2000.  Soldering handbook . 3rd ed. Miami: American Welding Society. Vill, V. I. 1962.  Friction welding of metals.  Miami: American Welding Society.  

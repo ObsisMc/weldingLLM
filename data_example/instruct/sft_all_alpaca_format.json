@@ -1,0 +1,12 @@
+[
+    {
+        "instruction": "What is a butt joint used for in welding applications?",
+        "input": "",
+        "output": "Butt joints are used in structural, assembly, and sealing applications."
+    },
+    {
+        "instruction": "What are suitable applications for gas tungsten arc welding?",
+        "input": "",
+        "output": "GTAW is ideal for welding thin base metals, root passes in inaccessible joints, and avoiding flux residues."
+    }
+]
