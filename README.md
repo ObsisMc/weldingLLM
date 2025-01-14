@@ -22,12 +22,12 @@ The preprocessed data is [here](https://drive.google.com/drive/folders/1XMb1OACE
 
 If you want to use the shared evaluation data, which only contains multiple-choice questions, please see [`eval/README.md`](https://drive.google.com/file/d/1kBvlTifjtF4ZDBcCKowQ4JD8rLJ-Xvpr/view?usp=drive_link) before using it.
 
-If you want to prepare your own training data, please see `preprocess/README.md` for more details. The data will be generated in `data` folder and the `data_example` folder is provided for your reference.
+If you want to prepare your own training data, please see [`preprocess/README.md`](https://github.com/ObsisMc/weldingLLM/tree/main/preprocess#readme) for more details. The data will be generated in `data` folder and the `data_example` folder is provided for your reference.
 
 
 ## Finetuning
 
-See `finetune/README.md` for more details.
+See [`finetune/README.md`](https://github.com/ObsisMc/weldingLLM/tree/main/finetune#readme) for more details.
 
 
 ## Evaluation
