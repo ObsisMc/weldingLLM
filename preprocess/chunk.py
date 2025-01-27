@@ -62,18 +62,19 @@ def chunk_text_in_dirs(
         root_dir: str, 
         chunk_sizes: list, 
         chunk_overlaps: list,
-        save_path: str):
+        save_path: str,
+        depth: int=2,
+        shuffle: bool=False):
+    assert depth >= 1, "depth must be greater than or equal to 1"
     
     if save_path is not None and os.path.exists(save_path):
         os.remove(save_path)
 
-    ret_chunked_texts = []
-    file_n = 0
-    sub_dirs = os.listdir(root_dir)
-    for sub_dir in sub_dirs:
-        sub_dir = os.path.join(root_dir, sub_dir)
-        if os.path.isdir(sub_dir):
-            input_paths = [os.path.join(sub_dir, file) for file in os.listdir(sub_dir)]
+    def dfs(root_dir, d):
+        if d == 1:
+            ret = []
+            file_n = 0
+            input_paths = [os.path.join(root_dir, file) for file in os.listdir(root_dir)]
             for input_path in input_paths:
                 chunked_text = create_pretrain_json(
                     input_path,
@@ -83,7 +84,22 @@ def chunk_text_in_dirs(
                     save_path=None
                 )
                 file_n += 1
-                ret_chunked_texts.extend(chunked_text)
+                ret.extend(chunked_text)
+            return ret, file_n
+        
+        sub_dirs = os.listdir(root_dir)
+        ret = []
+        file_n = 0
+        for sub_dir in sub_dirs:
+            sub_dir = os.path.join(root_dir, sub_dir)
+            texts, n = dfs(sub_dir, d - 1)
+            ret.extend(texts)
+            file_n += n
+        return ret, file_n
+    
+    ret_chunked_texts, file_n = dfs(root_dir, depth)
+    if shuffle:
+        random.shuffle(ret_chunked_texts)
     
     if save_path is not None:
         with open(save_path, "w", encoding="utf-8") as f:
@@ -93,6 +109,8 @@ def chunk_text_in_dirs(
 
 
 if __name__ == "__main__":
+
+    # handle a directory with depth 2
     chunk_sizes = [1024, 2048, 4096, 8192]
     chunk_overlaps=[int(i * 0.2) for i in chunk_sizes]
     input_dir = "data/processed/md"
@@ -101,5 +119,21 @@ if __name__ == "__main__":
         input_dir,
         chunk_sizes=chunk_sizes,
         chunk_overlaps=chunk_sizes,
-        save_path=output_file
+        save_path=output_file,
+        depth=2,
+        shuffle=True
     )
+
+    # # handle a directory with depth 1
+    # chunk_sizes = [2048, 4096, 8192]
+    # chunk_overlaps=[int(i * 0.2) for i in chunk_sizes]
+    # input_dir = "data/processed/md/vol1"
+    # output_file = "data/pretrain/pretrain_vol1.json"
+    # chunk_text_in_dirs(
+    #     input_dir,
+    #     chunk_sizes=chunk_sizes,
+    #     chunk_overlaps=chunk_sizes,
+    #     save_path=output_file,
+    #     depth=1,
+    #     shuffle=True
+    # )
